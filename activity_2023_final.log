@@ -23,3 +23,4 @@
 2023-01-03T00:00:00 - Update CI/CD pipeline for Rust components
 2023-01-03T00:00:00 - Update README documentation
 2023-01-04T00:00:00 - Optimize query decomposition
+2023-01-04T00:00:00 - Fix bug in vector indexing
