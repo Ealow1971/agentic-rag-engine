@@ -2321,3 +2321,4 @@
 2023-01-27T00:00:00 - Update CI/CD pipeline for Rust components
 2023-01-27T00:00:00 - Fix bug in vector indexing
 2023-01-05T00:00:00 - Add hybrid search support
+2023-01-05T00:00:00 - Clean up redundant code in retriever
