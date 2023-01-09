@@ -45,3 +45,4 @@
 2023-01-07T00:00:00 - Optimize query decomposition
 2023-01-07T00:00:00 - Optimize SIMD kernels for attention
 2023-01-09T00:00:00 - Add logging for drift detection
+2023-01-09T00:00:00 - Improve error handling in API
