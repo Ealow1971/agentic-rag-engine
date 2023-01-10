@@ -18,3 +18,4 @@
 2023-01-09T00:00:00 - Update LangGraph orchestration flow
 2023-01-09T00:00:00 - Fix bug in vector indexing
 2023-01-09T00:00:00 - Add unit tests for agentic core
+2023-01-10T00:00:00 - Add unit tests for agentic core
