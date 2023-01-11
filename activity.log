@@ -25,3 +25,4 @@
 2023-01-11T00:00:00 - Refactor retriever logic for better performance
 2023-01-11T00:00:00 - Add hybrid search support
 2023-01-11T00:00:00 - Implement caching for repeated queries
+2023-01-11T00:00:00 - Enhance document parsing capabilities
