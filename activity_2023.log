@@ -62,3 +62,4 @@
 2023-01-10T00:00:00 - Optimize SIMD kernels for attention
 2023-01-10T00:00:00 - Clean up redundant code in retriever
 2023-01-11T00:00:00 - Optimize query decomposition
+2023-01-11T00:00:00 - Improve error handling in API
