@@ -132,3 +132,4 @@
 2023-01-13T00:00:00 - Update gRPC service definitions
 2023-01-13T00:00:00 - Fix race condition in async processing
 2023-01-13T00:00:00 - Implement 4-bit quantization support
+2023-01-13T00:00:00 - Update requirements and dependencies
