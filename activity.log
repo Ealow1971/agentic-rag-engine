@@ -5051,3 +5051,4 @@
 2023-01-12T00:00:00 - Integrate new vector store provider
 2023-01-12T00:00:00 - Optimize SIMD kernels for attention
 2023-01-12T00:00:00 - Refactor retriever logic for better performance
+2023-01-13T00:00:00 - Improve error handling in API
