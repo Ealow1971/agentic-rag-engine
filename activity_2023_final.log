@@ -163,3 +163,4 @@
 2023-01-17T00:00:00 - Add support for custom embeddings
 2023-01-17T00:00:00 - Refactor retriever logic for better performance
 2023-01-17T00:00:00 - Refactor distributed sharding logic
+2023-01-17T00:00:00 - Update requirements and dependencies
