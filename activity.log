@@ -5072,3 +5072,4 @@
 2023-01-18T00:00:00 - Add synthetic data generation for tabular datasets
 2023-01-18T00:00:00 - Refactor MLOps CLI command structure
 2023-01-18T00:00:00 - Refactor retriever logic for better performance
+2023-01-18T00:00:00 - Add unit tests for agentic core
