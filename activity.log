@@ -2311,3 +2311,4 @@
 2023-01-17T00:00:00 - Add support for custom embeddings
 2023-01-17T00:00:00 - Add hybrid search support
 2023-01-19T00:00:00 - Add support for custom embeddings
+2023-01-19T00:00:00 - Improve error handling in API
