@@ -66,3 +66,4 @@
 2023-01-23T00:00:00 - Update README documentation
 2023-01-24T00:00:00 - Adjust prompt templates for better synthesis
 2023-01-24T00:00:00 - Clean up redundant code in retriever
+2023-01-24T00:00:00 - Add hybrid search support
