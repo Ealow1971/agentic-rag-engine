@@ -2323,3 +2323,4 @@
 2023-01-05T00:00:00 - Add hybrid search support
 2023-01-05T00:00:00 - Clean up redundant code in retriever
 2023-01-05T00:00:00 - Integrate new vector store provider
+2023-01-24T00:00:00 - Integrate new vector store provider
