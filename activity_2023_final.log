@@ -225,3 +225,4 @@
 2023-01-23T00:00:00 - Update requirements and dependencies
 2023-01-24T00:00:00 - Update requirements and dependencies
 2023-01-24T00:00:00 - Optimize SIMD kernels for attention
+2023-01-24T00:00:00 - Refactor retriever logic for better performance
