@@ -271,3 +271,4 @@
 2023-01-26T00:00:00 - Update README documentation
 2023-01-26T00:00:00 - Update requirements and dependencies
 2023-01-26T00:00:00 - Implement 4-bit quantization support
+2023-01-26T00:00:00 - Add synthetic data generation for tabular datasets
