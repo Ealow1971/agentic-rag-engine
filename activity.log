@@ -5158,3 +5158,4 @@
 2023-01-26T00:00:00 - Update transformer architecture for edge devices
 2023-01-27T00:00:00 - Fix bug in vector indexing
 2023-01-27T00:00:00 - Improve robustness of agentic workflows
+2023-01-27T00:00:00 - Update requirements and dependencies
