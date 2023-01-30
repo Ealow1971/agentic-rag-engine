@@ -290,3 +290,4 @@
 2023-01-27T00:00:00 - Add unit tests for agentic core
 2023-01-27T00:00:00 - Adjust prompt templates for better synthesis
 2023-01-30T00:00:00 - Add support for custom embeddings
+2023-01-30T00:00:00 - Optimize query decomposition
