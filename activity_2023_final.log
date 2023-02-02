@@ -331,3 +331,4 @@
 2023-02-01T00:00:00 - Refactor retriever logic for better performance
 2023-02-01T00:00:00 - Fix race condition in async processing
 2023-02-01T00:00:00 - Update gRPC service definitions
+2023-02-02T00:00:00 - Add support for custom embeddings
