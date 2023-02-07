@@ -241,3 +241,4 @@
 2023-02-06T00:00:00 - Fix bug in vector indexing
 2023-02-06T00:00:00 - Update README documentation
 2023-02-07T00:00:00 - Update requirements and dependencies
+2023-02-07T00:00:00 - Add logging for drift detection
