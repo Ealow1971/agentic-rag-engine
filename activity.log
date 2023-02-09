@@ -5245,3 +5245,4 @@
 2023-02-09T00:00:00 - Optimize memory management in C++ engine
 2023-02-09T00:00:00 - Add support for multi-modal embeddings
 2023-02-09T00:00:00 - Update requirements and dependencies
+2023-02-09T00:00:00 - Optimize query decomposition
