@@ -414,3 +414,4 @@
 2023-02-09T00:00:00 - Optimize SIMD kernels for attention
 2023-02-09T00:00:00 - Improve error handling in API
 2023-02-09T00:00:00 - Improve CUDA kernel performance
+2023-02-09T00:00:00 - Update gRPC service definitions
