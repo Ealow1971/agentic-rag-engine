@@ -435,3 +435,4 @@
 2023-02-10T00:00:00 - Refactor distributed sharding logic
 2023-02-10T00:00:00 - Fix bug in vector indexing
 2023-02-10T00:00:00 - Refactor retriever logic for better performance
+2023-02-10T00:00:00 - Add hybrid search support
