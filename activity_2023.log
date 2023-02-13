@@ -276,3 +276,4 @@
 2023-02-13T00:00:00 - Update LangGraph orchestration flow
 2023-02-13T00:00:00 - Clean up redundant code in retriever
 2023-02-13T00:00:00 - Integrate new vector store provider
+2023-02-13T00:00:00 - Optimize query decomposition
