@@ -5280,3 +5280,4 @@
 2023-02-16T00:00:00 - Update transformer architecture for edge devices
 2023-02-17T00:00:00 - Refactor retriever logic for better performance
 2023-02-17T00:00:00 - Add logging for drift detection
+2023-02-17T00:00:00 - Clean up redundant code in retriever
