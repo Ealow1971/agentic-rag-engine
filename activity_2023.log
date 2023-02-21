@@ -325,3 +325,4 @@
 2023-02-21T00:00:00 - Fix bug in vector indexing
 2023-02-21T00:00:00 - Refactor distributed sharding logic
 2023-02-21T00:00:00 - Fix race condition in async processing
+2023-02-21T00:00:00 - Clean up redundant code in retriever
