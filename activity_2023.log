@@ -317,3 +317,4 @@
 2023-02-20T00:00:00 - Fix bug in vector indexing
 2023-02-20T00:00:00 - Implement caching for repeated queries
 2023-02-20T00:00:00 - Add support for custom embeddings
+2023-02-21T00:00:00 - Integrate new vector store provider
