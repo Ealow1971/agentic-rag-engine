@@ -376,3 +376,4 @@
 2023-03-01T00:00:00 - Add unit tests for agentic core
 2023-03-01T00:00:00 - Optimize SIMD kernels for attention
 2023-03-01T00:00:00 - Integrate new vector store provider
+2023-03-01T00:00:00 - Update requirements and dependencies
