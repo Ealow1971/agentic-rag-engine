@@ -5343,3 +5343,4 @@
 2023-02-28T00:00:00 - Add support for multi-modal embeddings
 2023-03-01T00:00:00 - Update gRPC service definitions
 2023-03-01T00:00:00 - Add synthetic data generation for tabular datasets
+2023-03-01T00:00:00 - Fix bug in vector indexing
