@@ -176,3 +176,4 @@
 2023-03-01T00:00:00 - Update README documentation
 2023-03-01T00:00:00 - Optimize query decomposition
 2023-03-02T00:00:00 - Implement caching for repeated queries
+2023-03-02T00:00:00 - Clean up redundant code in retriever
