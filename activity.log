@@ -5362,3 +5362,4 @@
 2023-03-02T00:00:00 - Integrate new vector store provider
 2023-03-02T00:00:00 - Refactor MLOps CLI command structure
 2023-03-02T00:00:00 - Fix bug in vector indexing
+2023-03-02T00:00:00 - Add unit tests for agentic core
