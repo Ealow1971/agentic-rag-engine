@@ -604,3 +604,4 @@
 2023-03-01T00:00:00 - Update README documentation
 2023-03-02T00:00:00 - Add hybrid search support
 2023-03-02T00:00:00 - Update CI/CD pipeline for Rust components
+2023-03-02T00:00:00 - Clean up redundant code in retriever
