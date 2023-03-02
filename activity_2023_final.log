@@ -610,3 +610,4 @@
 2023-03-02T00:00:00 - Add hybrid search support
 2023-03-02T00:00:00 - Update gRPC service definitions
 2023-03-02T00:00:00 - Fix bug in vector indexing
+2023-03-02T00:00:00 - Refactor retriever logic for better performance
