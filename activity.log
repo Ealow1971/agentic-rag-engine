@@ -2457,3 +2457,4 @@
 2023-03-23T00:00:00 - Add hybrid search support
 2023-03-07T00:00:00 - Add unit tests for agentic core
 2023-03-07T00:00:00 - Update README documentation
+2023-03-07T00:00:00 - Adjust prompt templates for better synthesis
