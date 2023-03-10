@@ -700,3 +700,4 @@
 2023-03-10T00:00:00 - Update requirements and dependencies
 2023-03-10T00:00:00 - Update gRPC service definitions
 2023-03-10T00:00:00 - Add hybrid search support
+2023-03-10T00:00:00 - Optimize query decomposition
