@@ -697,3 +697,4 @@
 2023-03-10T00:00:00 - Optimize query decomposition
 2023-03-10T00:00:00 - Refactor retriever logic for better performance
 2023-03-10T00:00:00 - Add unit tests for agentic core
+2023-03-10T00:00:00 - Update requirements and dependencies
