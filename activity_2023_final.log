@@ -758,3 +758,4 @@
 2023-03-15T00:00:00 - Update CI/CD pipeline for Rust components
 2023-03-15T00:00:00 - Update CI/CD pipeline for Rust components
 2023-03-15T00:00:00 - Update requirements and dependencies
+2023-03-15T00:00:00 - Implement 4-bit quantization support
