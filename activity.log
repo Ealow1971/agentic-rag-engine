@@ -5481,3 +5481,4 @@
 2023-03-21T00:00:00 - Improve robustness of agentic workflows
 2023-03-21T00:00:00 - Implement 4-bit quantization support
 2023-03-21T00:00:00 - Add unit tests for agentic core
+2023-03-21T00:00:00 - Update transformer architecture for edge devices
