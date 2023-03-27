@@ -876,3 +876,4 @@
 2023-03-27T00:00:00 - Refactor retriever logic for better performance
 2023-03-27T00:00:00 - Update gRPC service definitions
 2023-03-27T00:00:00 - Fix race condition in async processing
+2023-03-27T00:00:00 - Adjust prompt templates for better synthesis
