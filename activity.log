@@ -5500,3 +5500,4 @@
 2023-03-24T00:00:00 - Fix bug in vector indexing
 2023-03-24T00:00:00 - Fix bug in vector indexing
 2023-03-24T00:00:00 - Update CI/CD pipeline for Rust components
+2023-03-27T00:00:00 - Implement 4-bit quantization support
