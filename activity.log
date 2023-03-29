@@ -5522,3 +5522,4 @@
 2023-03-29T00:00:00 - Add support for custom embeddings
 2023-03-29T00:00:00 - Refactor distributed sharding logic
 2023-03-29T00:00:00 - Clean up redundant code in retriever
+2023-03-29T00:00:00 - Add synthetic data generation for tabular datasets
