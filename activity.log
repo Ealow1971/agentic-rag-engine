@@ -236,3 +236,4 @@
 2023-03-29T00:00:00 - Enhance document parsing capabilities
 2023-03-29T00:00:00 - Fix race condition in async processing
 2023-03-29T00:00:00 - Fix race condition in async processing
+2023-03-29T00:00:00 - Clean up redundant code in retriever
