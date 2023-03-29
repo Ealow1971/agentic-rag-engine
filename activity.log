@@ -5516,3 +5516,4 @@
 2023-03-28T00:00:00 - Update requirements and dependencies
 2023-03-29T00:00:00 - Update CI/CD pipeline for Rust components
 2023-03-29T00:00:00 - Clean up redundant code in retriever
+2023-03-29T00:00:00 - Refactor MLOps CLI command structure
