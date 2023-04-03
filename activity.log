@@ -2531,3 +2531,4 @@
 2023-04-04T00:00:00 - Fix bug in vector indexing
 2023-04-03T00:00:00 - Clean up redundant code in retriever
 2023-04-03T00:00:00 - Fix race condition in async processing
+2023-04-03T00:00:00 - Implement caching for repeated queries
