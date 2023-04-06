@@ -5581,3 +5581,4 @@
 2023-04-06T00:00:00 - Add support for multi-modal embeddings
 2023-04-06T00:00:00 - Fix race condition in async processing
 2023-04-06T00:00:00 - Add hybrid search support
+2023-04-06T00:00:00 - Refactor retriever logic for better performance
