@@ -606,3 +606,4 @@
 2023-04-05T00:00:00 - Optimize SIMD kernels for attention
 2023-04-05T00:00:00 - Fix race condition in async processing
 2023-04-05T00:00:00 - Add support for custom embeddings
+2023-04-06T00:00:00 - Refactor distributed sharding logic
