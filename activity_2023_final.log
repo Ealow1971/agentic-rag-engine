@@ -990,3 +990,4 @@
 2023-04-05T00:00:00 - Implement 4-bit quantization support
 2023-04-05T00:00:00 - Adjust prompt templates for better synthesis
 2023-04-05T00:00:00 - Clean up redundant code in retriever
+2023-04-05T00:00:00 - Add unit tests for agentic core
