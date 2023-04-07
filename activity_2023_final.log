@@ -1021,3 +1021,4 @@
 2023-04-07T00:00:00 - Update README documentation
 2023-04-07T00:00:00 - Add synthetic data generation for tabular datasets
 2023-04-07T00:00:00 - Clean up redundant code in retriever
+2023-04-07T00:00:00 - Fix bug in vector indexing
