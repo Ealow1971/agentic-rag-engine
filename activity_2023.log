@@ -619,3 +619,4 @@
 2023-04-07T00:00:00 - Fix race condition in async processing
 2023-04-07T00:00:00 - Fix race condition in async processing
 2023-04-07T00:00:00 - Refactor distributed sharding logic
+2023-04-07T00:00:00 - Fix bug in vector indexing
