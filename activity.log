@@ -5590,3 +5590,4 @@
 2023-04-07T00:00:00 - Update gRPC service definitions
 2023-04-07T00:00:00 - Refactor MLOps CLI command structure
 2023-04-07T00:00:00 - Improve CUDA kernel performance
+2023-04-07T00:00:00 - Refactor retriever logic for better performance
