@@ -274,3 +274,4 @@
 2023-04-07T00:00:00 - Fix bug in vector indexing
 2023-04-07T00:00:00 - Implement caching for repeated queries
 2023-04-11T00:00:00 - Adjust prompt templates for better synthesis
+2023-04-11T00:00:00 - Add unit tests for agentic core
