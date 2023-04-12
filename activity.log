@@ -5626,3 +5626,4 @@
 2023-04-12T00:00:00 - Update requirements and dependencies
 2023-04-12T00:00:00 - Enhance document parsing capabilities
 2023-04-12T00:00:00 - Refactor MLOps CLI command structure
+2023-04-12T00:00:00 - Add logging for drift detection
