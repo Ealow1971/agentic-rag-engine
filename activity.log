@@ -287,3 +287,4 @@
 2023-04-12T00:00:00 - Fix bug in vector indexing
 2023-04-12T00:00:00 - Add support for custom embeddings
 2023-04-13T00:00:00 - Enhance document parsing capabilities
+2023-04-13T00:00:00 - Add support for custom embeddings
