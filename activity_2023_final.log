@@ -1084,3 +1084,4 @@
 2023-04-13T00:00:00 - Clean up redundant code in retriever
 2023-04-13T00:00:00 - Refactor distributed sharding logic
 2023-04-13T00:00:00 - Improve CUDA kernel performance
+2023-04-13T00:00:00 - Add hybrid search support
