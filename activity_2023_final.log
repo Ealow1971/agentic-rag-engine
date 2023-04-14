@@ -1098,3 +1098,4 @@
 2023-04-14T00:00:00 - Add hybrid search support
 2023-04-14T00:00:00 - Update README documentation
 2023-04-14T00:00:00 - Implement caching for repeated queries
+2023-04-14T00:00:00 - Fix bug in vector indexing
