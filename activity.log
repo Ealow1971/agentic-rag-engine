@@ -5656,3 +5656,4 @@
 2023-04-17T00:00:00 - Add support for multi-modal embeddings
 2023-04-17T00:00:00 - Improve error handling in API
 2023-04-17T00:00:00 - Refactor distributed sharding logic
+2023-04-17T00:00:00 - Integrate new vector store provider
