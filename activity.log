@@ -5654,3 +5654,4 @@
 2023-04-17T00:00:00 - Update transformer architecture for edge devices
 2023-04-17T00:00:00 - Update requirements and dependencies
 2023-04-17T00:00:00 - Add support for multi-modal embeddings
+2023-04-17T00:00:00 - Improve error handling in API
