@@ -5653,3 +5653,4 @@
 2023-04-14T00:00:00 - Clean up redundant code in retriever
 2023-04-17T00:00:00 - Update transformer architecture for edge devices
 2023-04-17T00:00:00 - Update requirements and dependencies
+2023-04-17T00:00:00 - Add support for multi-modal embeddings
