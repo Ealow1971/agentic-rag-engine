@@ -677,3 +677,4 @@
 2023-04-17T00:00:00 - Add hybrid search support
 2023-04-18T00:00:00 - Add support for custom embeddings
 2023-04-18T00:00:00 - Update requirements and dependencies
+2023-04-18T00:00:00 - Implement caching for repeated queries
