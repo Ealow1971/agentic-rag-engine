@@ -2567,3 +2567,4 @@
 2023-04-26T00:00:00 - Fix race condition in async processing
 2023-04-19T00:00:00 - Update requirements and dependencies
 2023-04-19T00:00:00 - Fix bug in vector indexing
+2023-04-19T00:00:00 - Add unit tests for agentic core
