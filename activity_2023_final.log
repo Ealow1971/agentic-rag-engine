@@ -1150,3 +1150,4 @@
 2023-04-19T00:00:00 - Update gRPC service definitions
 2023-04-19T00:00:00 - Integrate new vector store provider
 2023-04-19T00:00:00 - Fix race condition in async processing
+2023-04-19T00:00:00 - Optimize SIMD kernels for attention
