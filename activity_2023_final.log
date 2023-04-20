@@ -1155,3 +1155,4 @@
 2023-04-20T00:00:00 - Fix bug in vector indexing
 2023-04-20T00:00:00 - Add support for custom embeddings
 2023-04-20T00:00:00 - Enhance data drift visualization
+2023-04-20T00:00:00 - Add synthetic data generation for tabular datasets
