@@ -1177,3 +1177,4 @@
 2023-04-21T00:00:00 - Implement 4-bit quantization support
 2023-04-21T00:00:00 - Improve CUDA kernel performance
 2023-04-22T00:00:00 - Integrate new vector store provider
+2023-04-22T00:00:00 - Refactor retriever logic for better performance
