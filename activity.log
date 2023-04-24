@@ -326,3 +326,4 @@
 2023-04-21T00:00:00 - Update LangGraph orchestration flow
 2023-04-24T00:00:00 - Update README documentation
 2023-04-24T00:00:00 - Add support for custom embeddings
+2023-04-24T00:00:00 - Add hybrid search support
