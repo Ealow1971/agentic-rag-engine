@@ -5706,3 +5706,4 @@
 2023-04-24T00:00:00 - Update transformer architecture for edge devices
 2023-04-24T00:00:00 - Improve CUDA kernel performance
 2023-04-24T00:00:00 - Implement 4-bit quantization support
+2023-04-24T00:00:00 - Implement 4-bit quantization support
