@@ -5702,3 +5702,4 @@
 2023-04-24T00:00:00 - Update README documentation
 2023-04-24T00:00:00 - Integrate new vector store provider
 2023-04-24T00:00:00 - Update requirements and dependencies
+2023-04-24T00:00:00 - Add support for custom embeddings
