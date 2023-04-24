@@ -712,3 +712,4 @@
 2023-04-24T00:00:00 - Update README documentation
 2023-04-24T00:00:00 - Optimize SIMD kernels for attention
 2023-04-24T00:00:00 - Add hybrid search support
+2023-04-24T00:00:00 - Improve error handling in API
