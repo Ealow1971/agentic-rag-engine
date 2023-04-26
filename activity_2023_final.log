@@ -1232,3 +1232,4 @@
 2023-04-26T00:00:00 - Update gRPC service definitions
 2023-04-26T00:00:00 - Update README documentation
 2023-04-26T00:00:00 - Optimize query decomposition
+2023-04-26T00:00:00 - Add synthetic data generation for tabular datasets
