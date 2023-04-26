@@ -1218,3 +1218,4 @@
 2023-04-26T00:00:00 - Fix bug in vector indexing
 2023-04-26T00:00:00 - Optimize query decomposition
 2023-04-26T00:00:00 - Adjust prompt templates for better synthesis
+2023-04-26T00:00:00 - Implement 4-bit quantization support
