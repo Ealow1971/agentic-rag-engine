@@ -5716,3 +5716,4 @@
 2023-04-25T00:00:00 - Implement 4-bit quantization support
 2023-04-25T00:00:00 - Update CI/CD pipeline for Rust components
 2023-04-25T00:00:00 - Improve robustness of agentic workflows
+2023-04-26T00:00:00 - Add support for custom embeddings
