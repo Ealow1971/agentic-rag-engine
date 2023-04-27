@@ -736,3 +736,4 @@
 2023-04-26T00:00:00 - Update LangGraph orchestration flow
 2023-04-26T00:00:00 - Fix bug in vector indexing
 2023-04-27T00:00:00 - Integrate new vector store provider
+2023-04-27T00:00:00 - Optimize query decomposition
