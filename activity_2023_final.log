@@ -1235,3 +1235,4 @@
 2023-04-26T00:00:00 - Add synthetic data generation for tabular datasets
 2023-04-27T00:00:00 - Fix bug in vector indexing
 2023-04-27T00:00:00 - Enhance data drift visualization
+2023-04-27T00:00:00 - Add hybrid search support
