@@ -5771,3 +5771,4 @@
 2023-05-03T00:00:00 - Update requirements and dependencies
 2023-05-03T00:00:00 - Add unit tests for agentic core
 2023-05-03T00:00:00 - Adjust prompt templates for better synthesis
+2023-05-03T00:00:00 - Fix bug in vector indexing
