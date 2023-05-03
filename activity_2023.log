@@ -777,3 +777,4 @@
 2023-05-03T00:00:00 - Refactor distributed sharding logic
 2023-05-03T00:00:00 - Update README documentation
 2023-05-03T00:00:00 - Add logging for drift detection
+2023-05-03T00:00:00 - Clean up redundant code in retriever
