@@ -346,3 +346,4 @@
 2023-04-28T00:00:00 - Add support for custom embeddings
 2023-05-02T00:00:00 - Add hybrid search support
 2023-05-02T00:00:00 - Fix race condition in async processing
+2023-05-03T00:00:00 - Adjust prompt templates for better synthesis
