@@ -782,3 +782,4 @@
 2023-05-04T00:00:00 - Update README documentation
 2023-05-04T00:00:00 - Enhance document parsing capabilities
 2023-05-04T00:00:00 - Optimize query decomposition
+2023-05-04T00:00:00 - Clean up redundant code in retriever
