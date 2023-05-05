@@ -5789,3 +5789,4 @@
 2023-05-05T00:00:00 - Add support for multi-modal embeddings
 2023-05-05T00:00:00 - Implement 4-bit quantization support
 2023-05-05T00:00:00 - Optimize query decomposition
+2023-05-05T00:00:00 - Refactor distributed sharding logic
