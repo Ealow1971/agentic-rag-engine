@@ -2585,3 +2585,4 @@
 2023-05-16T00:00:00 - Refactor retriever logic for better performance
 2023-05-16T00:00:00 - Fix bug in vector indexing
 2023-05-05T00:00:00 - Add logging for drift detection
+2023-05-05T00:00:00 - Improve error handling in API
