@@ -1336,3 +1336,4 @@
 2023-05-04T00:00:00 - Update gRPC service definitions
 2023-05-04T00:00:00 - Implement caching for repeated queries
 2023-05-05T00:00:00 - Implement caching for repeated queries
+2023-05-05T00:00:00 - Add hybrid search support
