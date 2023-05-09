@@ -5799,3 +5799,4 @@
 2023-05-09T00:00:00 - Add unit tests for agentic core
 2023-05-09T00:00:00 - Add support for multi-modal embeddings
 2023-05-09T00:00:00 - Add unit tests for agentic core
+2023-05-09T00:00:00 - Integrate new vector store provider
