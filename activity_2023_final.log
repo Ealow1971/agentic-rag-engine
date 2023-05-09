@@ -1371,3 +1371,4 @@
 2023-05-09T00:00:00 - Integrate new vector store provider
 2023-05-09T00:00:00 - Adjust prompt templates for better synthesis
 2023-05-09T00:00:00 - Enhance document parsing capabilities
+2023-05-09T00:00:00 - Clean up redundant code in retriever
