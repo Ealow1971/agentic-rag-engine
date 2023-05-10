@@ -5813,3 +5813,4 @@
 2023-05-10T00:00:00 - Improve error handling in API
 2023-05-10T00:00:00 - Add support for multi-modal embeddings
 2023-05-10T00:00:00 - Add synthetic data generation for tabular datasets
+2023-05-10T00:00:00 - Optimize query decomposition
