@@ -2590,3 +2590,4 @@
 2023-05-10T00:00:00 - Optimize SIMD kernels for attention
 2023-05-10T00:00:00 - Clean up redundant code in retriever
 2023-05-10T00:00:00 - Add support for custom embeddings
+2023-05-10T00:00:00 - Add hybrid search support
