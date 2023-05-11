@@ -833,3 +833,4 @@
 2023-05-10T00:00:00 - Adjust prompt templates for better synthesis
 2023-05-10T00:00:00 - Refactor retriever logic for better performance
 2023-05-10T00:00:00 - Optimize SIMD kernels for attention
+2023-05-11T00:00:00 - Add hybrid search support
