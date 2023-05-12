@@ -1400,3 +1400,4 @@
 2023-05-11T00:00:00 - Update gRPC service definitions
 2023-05-11T00:00:00 - Improve error handling in API
 2023-05-11T00:00:00 - Implement caching for repeated queries
+2023-05-11T00:00:00 - Clean up redundant code in retriever
