@@ -839,3 +839,4 @@
 2023-05-11T00:00:00 - Refactor retriever logic for better performance
 2023-05-11T00:00:00 - Refactor distributed sharding logic
 2023-05-11T00:00:00 - Add unit tests for agentic core
+2023-05-12T00:00:00 - Update README documentation
