@@ -1469,3 +1469,4 @@
 2023-05-17T00:00:00 - Update gRPC service definitions
 2023-05-17T00:00:00 - Adjust prompt templates for better synthesis
 2023-05-17T00:00:00 - Optimize query decomposition
+2023-05-17T00:00:00 - Add unit tests for agentic core
