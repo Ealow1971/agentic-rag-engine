@@ -1466,3 +1466,4 @@
 2023-05-17T00:00:00 - Add synthetic data generation for tabular datasets
 2023-05-17T00:00:00 - Add support for custom embeddings
 2023-05-17T00:00:00 - Update README documentation
+2023-05-17T00:00:00 - Update gRPC service definitions
