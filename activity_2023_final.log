@@ -1467,3 +1467,4 @@
 2023-05-17T00:00:00 - Add support for custom embeddings
 2023-05-17T00:00:00 - Update README documentation
 2023-05-17T00:00:00 - Update gRPC service definitions
+2023-05-17T00:00:00 - Adjust prompt templates for better synthesis
