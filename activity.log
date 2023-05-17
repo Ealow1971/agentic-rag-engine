@@ -5860,3 +5860,4 @@
 2023-05-16T00:00:00 - Optimize SIMD kernels for attention
 2023-05-16T00:00:00 - Implement 4-bit quantization support
 2023-05-16T00:00:00 - Add support for custom embeddings
+2023-05-16T00:00:00 - Refactor MLOps CLI command structure
