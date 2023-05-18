@@ -1482,3 +1482,4 @@
 2023-05-18T00:00:00 - Enhance document parsing capabilities
 2023-05-18T00:00:00 - Improve CUDA kernel performance
 2023-05-18T00:00:00 - Adjust prompt templates for better synthesis
+2023-05-18T00:00:00 - Optimize SIMD kernels for attention
