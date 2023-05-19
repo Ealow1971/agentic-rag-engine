@@ -5885,3 +5885,4 @@
 2023-05-19T00:00:00 - Update transformer architecture for edge devices
 2023-05-19T00:00:00 - Refactor distributed sharding logic
 2023-05-19T00:00:00 - Improve robustness of agentic workflows
+2023-05-19T00:00:00 - Add support for custom embeddings
