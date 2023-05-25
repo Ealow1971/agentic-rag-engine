@@ -1562,3 +1562,4 @@
 2023-05-25T00:00:00 - Integrate new vector store provider
 2023-05-25T00:00:00 - Clean up redundant code in retriever
 2023-05-25T00:00:00 - Fix bug in vector indexing
+2023-05-25T00:00:00 - Add hybrid search support
