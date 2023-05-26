@@ -919,3 +919,4 @@
 2023-05-25T00:00:00 - Update CI/CD pipeline for Rust components
 2023-05-26T00:00:00 - Add support for custom embeddings
 2023-05-26T00:00:00 - Enhance document parsing capabilities
+2023-05-26T00:00:00 - Clean up redundant code in retriever
