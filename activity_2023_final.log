@@ -1599,3 +1599,4 @@
 2023-05-29T00:00:00 - Update README documentation
 2023-05-29T00:00:00 - Fix bug in vector indexing
 2023-05-29T00:00:00 - Implement caching for repeated queries
+2023-05-29T00:00:00 - Improve error handling in API
