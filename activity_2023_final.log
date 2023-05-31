@@ -1620,3 +1620,4 @@
 2023-05-31T00:00:00 - Improve CUDA kernel performance
 2023-05-31T00:00:00 - Add support for custom embeddings
 2023-05-31T00:00:00 - Enhance data drift visualization
+2023-05-31T00:00:00 - Enhance document parsing capabilities
