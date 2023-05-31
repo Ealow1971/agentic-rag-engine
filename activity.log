@@ -5941,3 +5941,4 @@
 2023-05-30T00:00:00 - Update gRPC service definitions
 2023-05-30T00:00:00 - Add support for custom embeddings
 2023-05-31T00:00:00 - Improve CUDA kernel performance
+2023-05-31T00:00:00 - Add logging for drift detection
