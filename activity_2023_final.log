@@ -1615,3 +1615,4 @@
 2023-05-31T00:00:00 - Enhance document parsing capabilities
 2023-05-31T00:00:00 - Optimize SIMD kernels for attention
 2023-05-31T00:00:00 - Add support for custom embeddings
+2023-05-31T00:00:00 - Clean up redundant code in retriever
