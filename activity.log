@@ -2667,3 +2667,4 @@
 2023-06-21T00:00:00 - Clean up redundant code in retriever
 2023-06-02T00:00:00 - Fix bug in vector indexing
 2023-06-02T00:00:00 - Fix bug in vector indexing
+2023-06-02T00:00:00 - Optimize query decomposition
