@@ -1657,3 +1657,4 @@
 2023-06-02T00:00:00 - Integrate new vector store provider
 2023-06-02T00:00:00 - Improve CUDA kernel performance
 2023-06-02T00:00:00 - Update README documentation
+2023-06-05T00:00:00 - Refactor distributed sharding logic
