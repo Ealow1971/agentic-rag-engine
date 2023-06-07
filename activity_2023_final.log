@@ -1690,3 +1690,4 @@
 2023-06-07T00:00:00 - Optimize query decomposition
 2023-06-07T00:00:00 - Refactor distributed sharding logic
 2023-06-07T00:00:00 - Implement caching for repeated queries
+2023-06-07T00:00:00 - Add hybrid search support
