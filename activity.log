@@ -2652,3 +2652,4 @@
 2023-06-16T00:00:00 - Implement caching for repeated queries
 2023-06-16T00:00:00 - Implement caching for repeated queries
 2023-06-16T00:00:00 - Fix bug in vector indexing
+2023-06-12T00:00:00 - Add unit tests for agentic core
