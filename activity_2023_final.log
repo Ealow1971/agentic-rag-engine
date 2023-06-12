@@ -1733,3 +1733,4 @@
 2023-06-09T00:00:00 - Refactor distributed sharding logic
 2023-06-09T00:00:00 - Clean up redundant code in retriever
 2023-06-12T00:00:00 - Improve CUDA kernel performance
+2023-06-12T00:00:00 - Implement 4-bit quantization support
