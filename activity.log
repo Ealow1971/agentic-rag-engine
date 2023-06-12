@@ -2654,3 +2654,4 @@
 2023-06-16T00:00:00 - Fix bug in vector indexing
 2023-06-12T00:00:00 - Add unit tests for agentic core
 2023-06-12T00:00:00 - Integrate new vector store provider
+2023-06-12T00:00:00 - Clean up redundant code in retriever
