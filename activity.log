@@ -6064,3 +6064,4 @@
 2023-06-15T00:00:00 - Clean up redundant code in retriever
 2023-06-15T00:00:00 - Update requirements and dependencies
 2023-06-15T00:00:00 - Add hybrid search support
+2023-06-15T00:00:00 - Update gRPC service definitions
