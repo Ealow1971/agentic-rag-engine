@@ -6054,3 +6054,4 @@
 2023-06-14T00:00:00 - Fix race condition in async processing
 2023-06-14T00:00:00 - Integrate new vector store provider
 2023-06-14T00:00:00 - Refactor distributed sharding logic
+2023-06-15T00:00:00 - Add hybrid search support
