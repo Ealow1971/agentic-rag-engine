@@ -1799,3 +1799,4 @@
 2023-06-16T00:00:00 - Update README documentation
 2023-06-16T00:00:00 - Improve CUDA kernel performance
 2023-06-16T00:00:00 - Adjust prompt templates for better synthesis
+2023-06-16T00:00:00 - Improve error handling in API
