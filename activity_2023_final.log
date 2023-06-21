@@ -1847,3 +1847,4 @@
 2023-06-21T00:00:00 - Clean up redundant code in retriever
 2023-06-21T00:00:00 - Add synthetic data generation for tabular datasets
 2023-06-21T00:00:00 - Add support for custom embeddings
+2023-06-21T00:00:00 - Fix race condition in async processing
