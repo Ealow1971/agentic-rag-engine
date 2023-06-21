@@ -1843,3 +1843,4 @@
 2023-06-20T00:00:00 - Fix bug in vector indexing
 2023-06-20T00:00:00 - Integrate new vector store provider
 2023-06-20T00:00:00 - Improve CUDA kernel performance
+2023-06-21T00:00:00 - Improve error handling in API
