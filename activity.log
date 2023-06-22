@@ -6102,3 +6102,4 @@
 2023-06-21T00:00:00 - Update gRPC service definitions
 2023-06-21T00:00:00 - Integrate new vector store provider
 2023-06-22T00:00:00 - Update README documentation
+2023-06-22T00:00:00 - Add synthetic data generation for tabular datasets
