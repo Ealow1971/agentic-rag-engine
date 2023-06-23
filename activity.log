@@ -6111,3 +6111,4 @@
 2023-06-22T00:00:00 - Update README documentation
 2023-06-22T00:00:00 - Update CI/CD pipeline for Rust components
 2023-06-23T00:00:00 - Implement 4-bit quantization support
+2023-06-23T00:00:00 - Improve error handling in API
