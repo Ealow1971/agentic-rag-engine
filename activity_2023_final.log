@@ -1882,3 +1882,4 @@
 2023-06-23T00:00:00 - Add logging for drift detection
 2023-06-23T00:00:00 - Add hybrid search support
 2023-06-25T00:00:00 - Refactor retriever logic for better performance
+2023-06-25T00:00:00 - Update requirements and dependencies
