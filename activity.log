@@ -6118,3 +6118,4 @@
 2023-06-24T00:00:00 - Update transformer architecture for edge devices
 2023-06-24T00:00:00 - Add synthetic data generation for tabular datasets
 2023-06-26T00:00:00 - Clean up redundant code in retriever
+2023-06-26T00:00:00 - Add support for custom embeddings
