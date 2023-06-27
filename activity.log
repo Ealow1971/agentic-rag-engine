@@ -479,3 +479,4 @@
 2023-06-26T00:00:00 - Add support for custom embeddings
 2023-06-26T00:00:00 - Optimize query decomposition
 2023-06-27T00:00:00 - Enhance document parsing capabilities
+2023-06-27T00:00:00 - Add hybrid search support
