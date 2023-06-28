@@ -1904,3 +1904,4 @@
 2023-06-26T00:00:00 - Optimize SIMD kernels for attention
 2023-06-26T00:00:00 - Clean up redundant code in retriever
 2023-06-26T00:00:00 - Refactor distributed sharding logic
+2023-06-28T00:00:00 - Update README documentation
