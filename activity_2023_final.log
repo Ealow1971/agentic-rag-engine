@@ -1916,3 +1916,4 @@
 2023-06-28T00:00:00 - Improve CUDA kernel performance
 2023-06-28T00:00:00 - Improve CUDA kernel performance
 2023-06-29T00:00:00 - Add support for custom embeddings
+2023-06-29T00:00:00 - Implement 4-bit quantization support
