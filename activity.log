@@ -6172,3 +6172,4 @@
 2023-07-04T00:00:00 - Add support for custom embeddings
 2023-07-04T00:00:00 - Optimize SIMD kernels for attention
 2023-07-04T00:00:00 - Enhance data drift visualization
+2023-07-04T00:00:00 - Fix bug in vector indexing
