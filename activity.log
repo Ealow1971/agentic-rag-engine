@@ -2753,3 +2753,4 @@
 2023-07-05T00:00:00 - Add logging for drift detection
 2023-07-05T00:00:00 - Add hybrid search support
 2023-07-05T00:00:00 - Integrate new vector store provider
+2023-07-05T00:00:00 - Clean up redundant code in retriever
