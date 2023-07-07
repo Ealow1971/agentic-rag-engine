@@ -501,3 +501,4 @@
 2023-07-07T00:00:00 - Implement caching for repeated queries
 2023-07-07T00:00:00 - Update LangGraph orchestration flow
 2023-07-07T00:00:00 - Improve error handling in API
+2023-07-07T00:00:00 - Add support for custom embeddings
