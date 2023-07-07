@@ -2004,3 +2004,4 @@
 2023-07-06T00:00:00 - Update CI/CD pipeline for Rust components
 2023-07-06T00:00:00 - Add support for custom embeddings
 2023-07-06T00:00:00 - Update CI/CD pipeline for Rust components
+2023-07-07T00:00:00 - Integrate new vector store provider
