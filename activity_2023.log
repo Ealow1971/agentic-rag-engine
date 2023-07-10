@@ -1183,3 +1183,4 @@
 2023-07-10T00:00:00 - Update README documentation
 2023-07-10T00:00:00 - Implement caching for repeated queries
 2023-07-10T00:00:00 - Integrate new vector store provider
+2023-07-10T00:00:00 - Add unit tests for agentic core
