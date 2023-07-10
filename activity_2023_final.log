@@ -2021,3 +2021,4 @@
 2023-07-09T00:00:00 - Add support for custom embeddings
 2023-07-10T00:00:00 - Add support for custom embeddings
 2023-07-10T00:00:00 - Update requirements and dependencies
+2023-07-10T00:00:00 - Add unit tests for agentic core
