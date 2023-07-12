@@ -6221,3 +6221,4 @@
 2023-07-12T00:00:00 - Improve CUDA kernel performance
 2023-07-12T00:00:00 - Add support for multi-modal embeddings
 2023-07-12T00:00:00 - Optimize query decomposition
+2023-07-12T00:00:00 - Improve error handling in API
