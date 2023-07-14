@@ -2088,3 +2088,4 @@
 2023-07-13T00:00:00 - Add support for custom embeddings
 2023-07-13T00:00:00 - Add hybrid search support
 2023-07-14T00:00:00 - Enhance document parsing capabilities
+2023-07-14T00:00:00 - Adjust prompt templates for better synthesis
