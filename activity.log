@@ -2712,3 +2712,4 @@
 2023-07-04T00:00:00 - Improve error handling in API
 2023-07-04T00:00:00 - Add hybrid search support
 2023-07-04T00:00:00 - Update requirements and dependencies
+2023-07-14T00:00:00 - Refactor retriever logic for better performance
