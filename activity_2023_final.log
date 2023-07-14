@@ -2097,3 +2097,4 @@
 2023-07-14T00:00:00 - Optimize SIMD kernels for attention
 2023-07-14T00:00:00 - Integrate new vector store provider
 2023-07-14T00:00:00 - Optimize query decomposition
+2023-07-14T00:00:00 - Update README documentation
