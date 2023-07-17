@@ -1211,3 +1211,4 @@
 2023-07-15T00:00:00 - Adjust prompt templates for better synthesis
 2023-07-17T00:00:00 - Add hybrid search support
 2023-07-17T00:00:00 - Integrate new vector store provider
+2023-07-17T00:00:00 - Enhance document parsing capabilities
