@@ -2110,3 +2110,4 @@
 2023-07-15T00:00:00 - Clean up redundant code in retriever
 2023-07-17T00:00:00 - Refactor distributed sharding logic
 2023-07-17T00:00:00 - Refactor distributed sharding logic
+2023-07-17T00:00:00 - Optimize query decomposition
