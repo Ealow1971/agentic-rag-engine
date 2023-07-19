@@ -2142,3 +2142,4 @@
 2023-07-19T00:00:00 - Fix bug in vector indexing
 2023-07-19T00:00:00 - Implement 4-bit quantization support
 2023-07-19T00:00:00 - Fix race condition in async processing
+2023-07-19T00:00:00 - Add support for custom embeddings
