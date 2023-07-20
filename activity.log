@@ -6275,3 +6275,4 @@
 2023-07-20T00:00:00 - Integrate new vector store provider
 2023-07-20T00:00:00 - Update CI/CD pipeline for Rust components
 2023-07-20T00:00:00 - Add hybrid search support
+2023-07-20T00:00:00 - Improve error handling in API
