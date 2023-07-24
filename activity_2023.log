@@ -1250,3 +1250,4 @@
 2023-07-21T00:00:00 - Refactor retriever logic for better performance
 2023-07-21T00:00:00 - Optimize SIMD kernels for attention
 2023-07-21T00:00:00 - Fix race condition in async processing
+2023-07-24T00:00:00 - Adjust prompt templates for better synthesis
