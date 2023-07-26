@@ -2193,3 +2193,4 @@
 2023-07-26T00:00:00 - Optimize query decomposition
 2023-07-26T00:00:00 - Optimize query decomposition
 2023-07-26T00:00:00 - Clean up redundant code in retriever
+2023-07-26T00:00:00 - Optimize SIMD kernels for attention
