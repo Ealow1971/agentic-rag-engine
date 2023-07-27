@@ -2208,3 +2208,4 @@
 2023-07-27T00:00:00 - Fix race condition in async processing
 2023-07-27T00:00:00 - Update gRPC service definitions
 2023-07-27T00:00:00 - Clean up redundant code in retriever
+2023-07-27T00:00:00 - Add synthetic data generation for tabular datasets
