@@ -6329,3 +6329,4 @@
 2023-07-31T00:00:00 - Fix bug in vector indexing
 2023-07-31T00:00:00 - Optimize memory management in C++ engine
 2023-07-31T00:00:00 - Add support for multi-modal embeddings
+2023-07-31T00:00:00 - Add unit tests for agentic core
