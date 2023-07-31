@@ -6324,3 +6324,4 @@
 2023-07-27T00:00:00 - Add synthetic data generation for tabular datasets
 2023-07-31T00:00:00 - Enhance document parsing capabilities
 2023-07-31T00:00:00 - Add hybrid search support
+2023-07-31T00:00:00 - Refactor MLOps CLI command structure
