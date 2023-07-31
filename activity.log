@@ -6322,3 +6322,4 @@
 2023-07-27T00:00:00 - Add support for multi-modal embeddings
 2023-07-27T00:00:00 - Refactor distributed sharding logic
 2023-07-27T00:00:00 - Add synthetic data generation for tabular datasets
+2023-07-31T00:00:00 - Enhance document parsing capabilities
