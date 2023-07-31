@@ -1296,3 +1296,4 @@
 2023-07-31T00:00:00 - Add unit tests for agentic core
 2023-07-31T00:00:00 - Improve error handling in API
 2023-07-31T00:00:00 - Optimize SIMD kernels for attention
+2023-07-31T00:00:00 - Fix bug in vector indexing
