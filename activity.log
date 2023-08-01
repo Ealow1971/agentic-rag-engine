@@ -6340,3 +6340,4 @@
 2023-08-01T00:00:00 - Fix bug in vector indexing
 2023-08-01T00:00:00 - Add support for custom embeddings
 2023-08-01T00:00:00 - Update CI/CD pipeline for Rust components
+2023-08-01T00:00:00 - Enhance data drift visualization
