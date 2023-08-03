@@ -2286,3 +2286,4 @@
 2023-08-03T00:00:00 - Fix bug in vector indexing
 2023-08-03T00:00:00 - Integrate new vector store provider
 2023-08-03T00:00:00 - Add support for custom embeddings
+2023-08-03T00:00:00 - Add synthetic data generation for tabular datasets
