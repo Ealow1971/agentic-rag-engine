@@ -2304,3 +2304,4 @@
 2023-08-04T00:00:00 - Add unit tests for agentic core
 2023-08-04T00:00:00 - Update requirements and dependencies
 2023-08-04T00:00:00 - Add hybrid search support
+2023-08-04T00:00:00 - Implement 4-bit quantization support
