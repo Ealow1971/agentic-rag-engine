@@ -1336,3 +1336,4 @@
 2023-08-03T00:00:00 - Clean up redundant code in retriever
 2023-08-03T00:00:00 - Adjust prompt templates for better synthesis
 2023-08-04T00:00:00 - Add unit tests for agentic core
+2023-08-04T00:00:00 - Update requirements and dependencies
