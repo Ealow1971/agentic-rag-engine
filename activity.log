@@ -6371,3 +6371,4 @@
 2023-08-07T00:00:00 - Optimize SIMD kernels for attention
 2023-08-07T00:00:00 - Fix bug in vector indexing
 2023-08-07T00:00:00 - Integrate new vector store provider
+2023-08-07T00:00:00 - Add hybrid search support
