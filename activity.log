@@ -2791,3 +2791,4 @@
 2023-08-30T00:00:00 - Update requirements and dependencies
 2023-08-30T00:00:00 - Update README documentation
 2023-08-30T00:00:00 - Integrate new vector store provider
+2023-08-11T00:00:00 - Refactor retriever logic for better performance
