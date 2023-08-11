@@ -2378,3 +2378,4 @@
 2023-08-11T00:00:00 - Improve error handling in API
 2023-08-11T00:00:00 - Update gRPC service definitions
 2023-08-11T00:00:00 - Refactor retriever logic for better performance
+2023-08-11T00:00:00 - Integrate new vector store provider
