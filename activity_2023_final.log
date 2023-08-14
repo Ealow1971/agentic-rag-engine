@@ -2401,3 +2401,4 @@
 2023-08-14T00:00:00 - Add support for custom embeddings
 2023-08-14T00:00:00 - Update gRPC service definitions
 2023-08-14T00:00:00 - Add logging for drift detection
+2023-08-14T00:00:00 - Integrate new vector store provider
