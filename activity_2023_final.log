@@ -2456,3 +2456,4 @@
 2023-08-18T00:00:00 - Integrate new vector store provider
 2023-08-18T00:00:00 - Add unit tests for agentic core
 2023-08-18T00:00:00 - Implement 4-bit quantization support
+2023-08-18T00:00:00 - Enhance document parsing capabilities
