@@ -591,3 +591,4 @@
 2023-08-22T00:00:00 - Add unit tests for agentic core
 2023-08-23T00:00:00 - Add support for custom embeddings
 2023-08-23T00:00:00 - Update README documentation
+2023-08-23T00:00:00 - Fix race condition in async processing
