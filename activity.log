@@ -6492,3 +6492,4 @@
 2023-08-28T00:00:00 - Improve robustness of agentic workflows
 2023-08-28T00:00:00 - Add support for multi-modal embeddings
 2023-08-28T00:00:00 - Optimize query decomposition
+2023-08-28T00:00:00 - Update transformer architecture for edge devices
