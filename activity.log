@@ -608,3 +608,4 @@
 2023-08-25T00:00:00 - Fix bug in vector indexing
 2023-08-28T00:00:00 - Fix bug in vector indexing
 2023-08-28T00:00:00 - Implement caching for repeated queries
+2023-08-28T00:00:00 - Add hybrid search support
