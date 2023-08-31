@@ -2554,3 +2554,4 @@
 2023-08-31T00:00:00 - Update README documentation
 2023-08-31T00:00:00 - Refactor retriever logic for better performance
 2023-08-31T00:00:00 - Add support for custom embeddings
+2023-08-31T00:00:00 - Add synthetic data generation for tabular datasets
