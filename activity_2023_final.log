@@ -2564,3 +2564,4 @@
 2023-08-31T00:00:00 - Enhance document parsing capabilities
 2023-08-31T00:00:00 - Add unit tests for agentic core
 2023-08-31T00:00:00 - Adjust prompt templates for better synthesis
+2023-09-01T00:00:00 - Add synthetic data generation for tabular datasets
