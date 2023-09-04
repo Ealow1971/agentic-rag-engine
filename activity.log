@@ -6526,3 +6526,4 @@
 2023-09-01T00:00:00 - Clean up redundant code in retriever
 2023-09-01T00:00:00 - Improve robustness of agentic workflows
 2023-09-01T00:00:00 - Add support for multi-modal embeddings
+2023-09-04T00:00:00 - Enhance document parsing capabilities
