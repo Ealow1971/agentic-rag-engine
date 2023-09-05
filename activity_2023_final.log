@@ -2594,3 +2594,4 @@
 2023-09-05T00:00:00 - Add logging for drift detection
 2023-09-05T00:00:00 - Add hybrid search support
 2023-09-05T00:00:00 - Implement caching for repeated queries
+2023-09-05T00:00:00 - Integrate new vector store provider
