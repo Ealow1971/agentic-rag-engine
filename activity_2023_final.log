@@ -2616,3 +2616,4 @@
 2023-09-06T00:00:00 - Add hybrid search support
 2023-09-06T00:00:00 - Refactor retriever logic for better performance
 2023-09-06T00:00:00 - Add hybrid search support
+2023-09-06T00:00:00 - Add synthetic data generation for tabular datasets
