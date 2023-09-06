@@ -2614,3 +2614,4 @@
 2023-09-06T00:00:00 - Adjust prompt templates for better synthesis
 2023-09-06T00:00:00 - Update gRPC service definitions
 2023-09-06T00:00:00 - Add hybrid search support
+2023-09-06T00:00:00 - Refactor retriever logic for better performance
