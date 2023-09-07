@@ -2639,3 +2639,4 @@
 2023-09-07T00:00:00 - Integrate new vector store provider
 2023-09-07T00:00:00 - Optimize query decomposition
 2023-09-07T00:00:00 - Implement caching for repeated queries
+2023-09-07T00:00:00 - Add support for custom embeddings
