@@ -6556,3 +6556,4 @@
 2023-09-07T00:00:00 - Update README documentation
 2023-09-07T00:00:00 - Optimize memory management in C++ engine
 2023-09-07T00:00:00 - Optimize SIMD kernels for attention
+2023-09-07T00:00:00 - Clean up redundant code in retriever
