@@ -2647,3 +2647,4 @@
 2023-09-08T00:00:00 - Update gRPC service definitions
 2023-09-08T00:00:00 - Optimize SIMD kernels for attention
 2023-09-08T00:00:00 - Refactor retriever logic for better performance
+2023-09-08T00:00:00 - Fix bug in vector indexing
