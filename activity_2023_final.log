@@ -2679,3 +2679,4 @@
 2023-09-11T00:00:00 - Refactor retriever logic for better performance
 2023-09-12T00:00:00 - Add synthetic data generation for tabular datasets
 2023-09-12T00:00:00 - Refactor retriever logic for better performance
+2023-09-12T00:00:00 - Clean up redundant code in retriever
