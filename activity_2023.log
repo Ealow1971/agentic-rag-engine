@@ -1569,3 +1569,4 @@
 2023-09-13T00:00:00 - Optimize SIMD kernels for attention
 2023-09-13T00:00:00 - Refactor distributed sharding logic
 2023-09-13T00:00:00 - Fix bug in vector indexing
+2023-09-13T00:00:00 - Add hybrid search support
