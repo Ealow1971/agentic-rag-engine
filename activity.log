@@ -673,3 +673,4 @@
 2023-09-20T00:00:00 - Optimize query decomposition
 2023-09-20T00:00:00 - Adjust prompt templates for better synthesis
 2023-09-20T00:00:00 - Add hybrid search support
+2023-09-20T00:00:00 - Refactor retriever logic for better performance
