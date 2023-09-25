@@ -677,3 +677,4 @@
 2023-09-20T00:00:00 - Add support for custom embeddings
 2023-09-25T00:00:00 - Optimize query decomposition
 2023-09-25T00:00:00 - Clean up redundant code in retriever
+2023-09-25T00:00:00 - Add unit tests for agentic core
