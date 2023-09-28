@@ -2850,3 +2850,4 @@
 2023-09-27T00:00:00 - Implement 4-bit quantization support
 2023-09-27T00:00:00 - Add hybrid search support
 2023-09-27T00:00:00 - Update gRPC service definitions
+2023-09-27T00:00:00 - Refactor retriever logic for better performance
