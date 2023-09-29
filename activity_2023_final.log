@@ -2864,3 +2864,4 @@
 2023-09-28T00:00:00 - Enhance data drift visualization
 2023-09-28T00:00:00 - Add hybrid search support
 2023-09-28T00:00:00 - Improve CUDA kernel performance
+2023-09-28T00:00:00 - Improve error handling in API
