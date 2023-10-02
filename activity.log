@@ -6696,3 +6696,4 @@
 2023-10-02T00:00:00 - Add unit tests for agentic core
 2023-10-02T00:00:00 - Update CI/CD pipeline for Rust components
 2023-10-02T00:00:00 - Add support for multi-modal embeddings
+2023-10-02T00:00:00 - Add hybrid search support
