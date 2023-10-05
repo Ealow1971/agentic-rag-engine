@@ -2954,3 +2954,4 @@
 2023-10-05T00:00:00 - Fix bug in vector indexing
 2023-10-05T00:00:00 - Update README documentation
 2023-10-05T00:00:00 - Update README documentation
+2023-10-05T00:00:00 - Optimize SIMD kernels for attention
