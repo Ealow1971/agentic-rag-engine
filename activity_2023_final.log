@@ -2961,3 +2961,4 @@
 2023-10-06T00:00:00 - Optimize SIMD kernels for attention
 2023-10-06T00:00:00 - Improve CUDA kernel performance
 2023-10-06T00:00:00 - Add synthetic data generation for tabular datasets
+2023-10-06T00:00:00 - Adjust prompt templates for better synthesis
