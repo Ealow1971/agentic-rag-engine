@@ -2968,3 +2968,4 @@
 2023-10-06T00:00:00 - Update README documentation
 2023-10-06T00:00:00 - Update README documentation
 2023-10-06T00:00:00 - Fix bug in vector indexing
+2023-10-06T00:00:00 - Clean up redundant code in retriever
