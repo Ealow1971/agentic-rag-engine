@@ -2990,3 +2990,4 @@
 2023-10-09T00:00:00 - Add synthetic data generation for tabular datasets
 2023-10-09T00:00:00 - Improve CUDA kernel performance
 2023-10-09T00:00:00 - Add support for custom embeddings
+2023-10-09T00:00:00 - Add synthetic data generation for tabular datasets
