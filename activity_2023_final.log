@@ -2994,3 +2994,4 @@
 2023-10-09T00:00:00 - Enhance data drift visualization
 2023-10-09T00:00:00 - Add hybrid search support
 2023-10-09T00:00:00 - Integrate new vector store provider
+2023-10-10T00:00:00 - Optimize query decomposition
