@@ -3013,3 +3013,4 @@
 2023-10-10T00:00:00 - Optimize query decomposition
 2023-10-10T00:00:00 - Integrate new vector store provider
 2023-10-11T00:00:00 - Add unit tests for agentic core
+2023-10-11T00:00:00 - Adjust prompt templates for better synthesis
