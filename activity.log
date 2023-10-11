@@ -6769,3 +6769,4 @@
 2023-10-11T00:00:00 - Add hybrid search support
 2023-10-11T00:00:00 - Add support for multi-modal embeddings
 2023-10-11T00:00:00 - Improve CUDA kernel performance
+2023-10-11T00:00:00 - Update requirements and dependencies
