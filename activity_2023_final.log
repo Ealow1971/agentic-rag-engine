@@ -3034,3 +3034,4 @@
 2023-10-12T00:00:00 - Add unit tests for agentic core
 2023-10-12T00:00:00 - Fix bug in vector indexing
 2023-10-12T00:00:00 - Update requirements and dependencies
+2023-10-12T00:00:00 - Add hybrid search support
