@@ -6804,3 +6804,4 @@
 2023-10-16T00:00:00 - Add support for multi-modal embeddings
 2023-10-16T00:00:00 - Update requirements and dependencies
 2023-10-16T00:00:00 - Update gRPC service definitions
+2023-10-17T00:00:00 - Integrate new vector store provider
