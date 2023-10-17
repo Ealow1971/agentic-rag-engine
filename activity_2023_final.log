@@ -3085,3 +3085,4 @@
 2023-10-17T00:00:00 - Implement 4-bit quantization support
 2023-10-17T00:00:00 - Refactor distributed sharding logic
 2023-10-17T00:00:00 - Update gRPC service definitions
+2023-10-17T00:00:00 - Clean up redundant code in retriever
