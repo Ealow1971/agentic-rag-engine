@@ -2927,3 +2927,4 @@
 2023-10-16T00:00:00 - Optimize SIMD kernels for attention
 2023-10-16T00:00:00 - Clean up redundant code in retriever
 2023-10-17T00:00:00 - Add unit tests for agentic core
+2023-10-17T00:00:00 - Adjust prompt templates for better synthesis
