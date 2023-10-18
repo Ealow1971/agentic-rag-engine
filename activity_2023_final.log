@@ -3090,3 +3090,4 @@
 2023-10-18T00:00:00 - Add unit tests for agentic core
 2023-10-18T00:00:00 - Enhance data drift visualization
 2023-10-18T00:00:00 - Implement 4-bit quantization support
+2023-10-18T00:00:00 - Improve error handling in API
