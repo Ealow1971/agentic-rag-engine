@@ -3093,3 +3093,4 @@
 2023-10-18T00:00:00 - Improve error handling in API
 2023-10-18T00:00:00 - Implement 4-bit quantization support
 2023-10-18T00:00:00 - Add logging for drift detection
+2023-10-18T00:00:00 - Clean up redundant code in retriever
