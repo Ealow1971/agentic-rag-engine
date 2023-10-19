@@ -6833,3 +6833,4 @@
 2023-10-19T00:00:00 - Add hybrid search support
 2023-10-19T00:00:00 - Clean up redundant code in retriever
 2023-10-19T00:00:00 - Add support for custom embeddings
+2023-10-19T00:00:00 - Improve CUDA kernel performance
