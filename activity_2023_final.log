@@ -3116,3 +3116,4 @@
 2023-10-20T00:00:00 - Optimize query decomposition
 2023-10-20T00:00:00 - Add support for custom embeddings
 2023-10-20T00:00:00 - Integrate new vector store provider
+2023-10-20T00:00:00 - Implement 4-bit quantization support
