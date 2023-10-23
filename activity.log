@@ -758,3 +758,4 @@
 2023-10-20T00:00:00 - Implement caching for repeated queries
 2023-10-20T00:00:00 - Update README documentation
 2023-10-23T00:00:00 - Add unit tests for agentic core
+2023-10-23T00:00:00 - Add support for custom embeddings
