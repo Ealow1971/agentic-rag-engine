@@ -3157,3 +3157,4 @@
 2023-10-24T00:00:00 - Optimize query decomposition
 2023-10-24T00:00:00 - Update README documentation
 2023-10-24T00:00:00 - Clean up redundant code in retriever
+2023-10-24T00:00:00 - Improve error handling in API
