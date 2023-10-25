@@ -6855,3 +6855,4 @@
 2023-10-23T00:00:00 - Update README documentation
 2023-10-23T00:00:00 - Add logging for drift detection
 2023-10-25T00:00:00 - Refactor MLOps CLI command structure
+2023-10-25T00:00:00 - Improve error handling in API
