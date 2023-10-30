@@ -3224,3 +3224,4 @@
 2023-10-28T00:00:00 - Improve error handling in API
 2023-10-28T00:00:00 - Improve CUDA kernel performance
 2023-10-30T00:00:00 - Update gRPC service definitions
+2023-10-30T00:00:00 - Update requirements and dependencies
