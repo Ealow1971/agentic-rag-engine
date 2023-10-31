@@ -3240,3 +3240,4 @@
 2023-10-31T00:00:00 - Fix bug in vector indexing
 2023-10-31T00:00:00 - Implement caching for repeated queries
 2023-10-31T00:00:00 - Implement 4-bit quantization support
+2023-10-31T00:00:00 - Update README documentation
