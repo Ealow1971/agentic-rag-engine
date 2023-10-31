@@ -1889,3 +1889,4 @@
 2023-10-30T00:00:00 - Clean up redundant code in retriever
 2023-10-30T00:00:00 - Add unit tests for agentic core
 2023-10-31T00:00:00 - Fix bug in vector indexing
+2023-10-31T00:00:00 - Update README documentation
