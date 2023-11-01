@@ -6909,3 +6909,4 @@
 2023-11-01T00:00:00 - Improve robustness of agentic workflows
 2023-11-01T00:00:00 - Update transformer architecture for edge devices
 2023-11-01T00:00:00 - Implement 4-bit quantization support
+2023-11-01T00:00:00 - Add support for custom embeddings
