@@ -2996,3 +2996,4 @@
 2023-11-14T00:00:00 - Update requirements and dependencies
 2023-11-01T00:00:00 - Add unit tests for agentic core
 2023-11-01T00:00:00 - Integrate new vector store provider
+2023-11-01T00:00:00 - Add hybrid search support
