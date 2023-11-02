@@ -3276,3 +3276,4 @@
 2023-11-02T00:00:00 - Implement 4-bit quantization support
 2023-11-02T00:00:00 - Integrate new vector store provider
 2023-11-02T00:00:00 - Optimize SIMD kernels for attention
+2023-11-02T00:00:00 - Adjust prompt templates for better synthesis
