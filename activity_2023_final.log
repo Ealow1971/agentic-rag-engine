@@ -3314,3 +3314,4 @@
 2023-11-06T00:00:00 - Optimize query decomposition
 2023-11-06T00:00:00 - Clean up redundant code in retriever
 2023-11-06T00:00:00 - Add hybrid search support
+2023-11-06T00:00:00 - Implement caching for repeated queries
