@@ -802,3 +802,4 @@
 2023-11-06T00:00:00 - Refactor retriever logic for better performance
 2023-11-06T00:00:00 - Update requirements and dependencies
 2023-11-07T00:00:00 - Add unit tests for agentic core
+2023-11-07T00:00:00 - Adjust prompt templates for better synthesis
