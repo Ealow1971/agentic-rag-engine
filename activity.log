@@ -6946,3 +6946,4 @@
 2023-11-07T00:00:00 - Fix race condition in async processing
 2023-11-07T00:00:00 - Refactor retriever logic for better performance
 2023-11-07T00:00:00 - Optimize query decomposition
+2023-11-07T00:00:00 - Add support for multi-modal embeddings
