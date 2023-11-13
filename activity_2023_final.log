@@ -3382,3 +3382,4 @@
 2023-11-13T00:00:00 - Refactor distributed sharding logic
 2023-11-13T00:00:00 - Adjust prompt templates for better synthesis
 2023-11-13T00:00:00 - Fix bug in vector indexing
+2023-11-13T00:00:00 - Improve error handling in API
