@@ -3378,3 +3378,4 @@
 2023-11-13T00:00:00 - Integrate new vector store provider
 2023-11-13T00:00:00 - Add support for custom embeddings
 2023-11-13T00:00:00 - Clean up redundant code in retriever
+2023-11-13T00:00:00 - Implement caching for repeated queries
