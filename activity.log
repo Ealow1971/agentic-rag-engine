@@ -2988,3 +2988,4 @@
 2023-11-16T00:00:00 - Add hybrid search support
 2023-11-16T00:00:00 - Add hybrid search support
 2023-11-16T00:00:00 - Refactor distributed sharding logic
+2023-11-14T00:00:00 - Integrate new vector store provider
