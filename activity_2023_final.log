@@ -3409,3 +3409,4 @@
 2023-11-15T00:00:00 - Update gRPC service definitions
 2023-11-15T00:00:00 - Adjust prompt templates for better synthesis
 2023-11-15T00:00:00 - Add support for custom embeddings
+2023-11-15T00:00:00 - Optimize SIMD kernels for attention
