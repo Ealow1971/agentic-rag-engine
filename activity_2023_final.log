@@ -3391,3 +3391,4 @@
 2023-11-14T00:00:00 - Update CI/CD pipeline for Rust components
 2023-11-14T00:00:00 - Add unit tests for agentic core
 2023-11-14T00:00:00 - Clean up redundant code in retriever
+2023-11-14T00:00:00 - Add hybrid search support
