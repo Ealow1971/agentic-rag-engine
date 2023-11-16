@@ -7031,3 +7031,4 @@
 2023-11-16T00:00:00 - Adjust prompt templates for better synthesis
 2023-11-16T00:00:00 - Fix bug in vector indexing
 2023-11-16T00:00:00 - Add support for custom embeddings
+2023-11-16T00:00:00 - Update requirements and dependencies
