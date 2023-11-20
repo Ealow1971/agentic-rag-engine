@@ -3446,3 +3446,4 @@
 2023-11-20T00:00:00 - Implement 4-bit quantization support
 2023-11-20T00:00:00 - Add support for custom embeddings
 2023-11-20T00:00:00 - Enhance document parsing capabilities
+2023-11-20T00:00:00 - Optimize query decomposition
