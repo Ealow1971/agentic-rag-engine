@@ -3461,3 +3461,4 @@
 2023-11-21T00:00:00 - Optimize SIMD kernels for attention
 2023-11-21T00:00:00 - Add hybrid search support
 2023-11-21T00:00:00 - Optimize SIMD kernels for attention
+2023-11-21T00:00:00 - Improve error handling in API
