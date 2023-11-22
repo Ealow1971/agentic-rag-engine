@@ -7058,3 +7058,4 @@
 2023-11-21T00:00:00 - Update requirements and dependencies
 2023-11-21T00:00:00 - Add support for multi-modal embeddings
 2023-11-22T00:00:00 - Optimize SIMD kernels for attention
+2023-11-22T00:00:00 - Improve error handling in API
