@@ -3010,3 +3010,4 @@
 2023-11-21T00:00:00 - Update README documentation
 2023-11-21T00:00:00 - Update README documentation
 2023-11-21T00:00:00 - Add unit tests for agentic core
+2023-11-23T00:00:00 - Fix bug in vector indexing
