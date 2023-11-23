@@ -3494,3 +3494,4 @@
 2023-11-23T00:00:00 - Add hybrid search support
 2023-11-23T00:00:00 - Integrate new vector store provider
 2023-11-23T00:00:00 - Add synthetic data generation for tabular datasets
+2023-11-23T00:00:00 - Improve error handling in API
