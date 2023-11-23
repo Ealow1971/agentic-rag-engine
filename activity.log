@@ -7071,3 +7071,4 @@
 2023-11-22T00:00:00 - Optimize SIMD kernels for attention
 2023-11-22T00:00:00 - Add hybrid search support
 2023-11-22T00:00:00 - Clean up redundant code in retriever
+2023-11-23T00:00:00 - Update gRPC service definitions
