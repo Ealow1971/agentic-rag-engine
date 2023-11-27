@@ -3522,3 +3522,4 @@
 2023-11-27T00:00:00 - Add synthetic data generation for tabular datasets
 2023-11-27T00:00:00 - Update README documentation
 2023-11-27T00:00:00 - Add synthetic data generation for tabular datasets
+2023-11-27T00:00:00 - Refactor retriever logic for better performance
