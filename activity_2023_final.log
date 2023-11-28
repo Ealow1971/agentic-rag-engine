@@ -3529,3 +3529,4 @@
 2023-11-27T00:00:00 - Update CI/CD pipeline for Rust components
 2023-11-27T00:00:00 - Refactor retriever logic for better performance
 2023-11-27T00:00:00 - Improve CUDA kernel performance
+2023-11-27T00:00:00 - Add support for custom embeddings
