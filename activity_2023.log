@@ -2087,3 +2087,4 @@
 2023-11-29T00:00:00 - Integrate new vector store provider
 2023-11-29T00:00:00 - Add hybrid search support
 2023-11-29T00:00:00 - Refactor retriever logic for better performance
+2023-11-29T00:00:00 - Enhance document parsing capabilities
