@@ -3558,3 +3558,4 @@
 2023-11-29T00:00:00 - Implement 4-bit quantization support
 2023-11-30T00:00:00 - Update gRPC service definitions
 2023-11-30T00:00:00 - Integrate new vector store provider
+2023-11-30T00:00:00 - Optimize query decomposition
