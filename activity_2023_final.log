@@ -3582,3 +3582,4 @@
 2023-12-01T00:00:00 - Implement 4-bit quantization support
 2023-12-01T00:00:00 - Enhance data drift visualization
 2023-12-01T00:00:00 - Update gRPC service definitions
+2023-12-01T00:00:00 - Add hybrid search support
