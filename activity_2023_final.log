@@ -3600,3 +3600,4 @@
 2023-12-04T00:00:00 - Add hybrid search support
 2023-12-04T00:00:00 - Add synthetic data generation for tabular datasets
 2023-12-04T00:00:00 - Optimize query decomposition
+2023-12-04T00:00:00 - Integrate new vector store provider
