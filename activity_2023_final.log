@@ -3607,3 +3607,4 @@
 2023-12-05T00:00:00 - Add support for custom embeddings
 2023-12-05T00:00:00 - Implement caching for repeated queries
 2023-12-05T00:00:00 - Refactor retriever logic for better performance
+2023-12-05T00:00:00 - Add unit tests for agentic core
