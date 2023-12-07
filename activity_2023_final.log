@@ -3639,3 +3639,4 @@
 2023-12-07T00:00:00 - Update CI/CD pipeline for Rust components
 2023-12-07T00:00:00 - Update README documentation
 2023-12-07T00:00:00 - Refactor retriever logic for better performance
+2023-12-07T00:00:00 - Improve error handling in API
