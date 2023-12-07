@@ -3630,3 +3630,4 @@
 2023-12-06T00:00:00 - Add logging for drift detection
 2023-12-06T00:00:00 - Refactor retriever logic for better performance
 2023-12-06T00:00:00 - Add hybrid search support
+2023-12-07T00:00:00 - Optimize query decomposition
