@@ -900,3 +900,4 @@
 2023-12-12T00:00:00 - Fix race condition in async processing
 2023-12-12T00:00:00 - Add support for custom embeddings
 2023-12-12T00:00:00 - Fix bug in vector indexing
+2023-12-12T00:00:00 - Update README documentation
