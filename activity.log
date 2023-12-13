@@ -7194,3 +7194,4 @@
 2023-12-12T00:00:00 - Optimize query decomposition
 2023-12-13T00:00:00 - Optimize SIMD kernels for attention
 2023-12-13T00:00:00 - Optimize query decomposition
+2023-12-13T00:00:00 - Add support for multi-modal embeddings
