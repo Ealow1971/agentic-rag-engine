@@ -7201,3 +7201,4 @@
 2023-12-13T00:00:00 - Refactor retriever logic for better performance
 2023-12-14T00:00:00 - Add unit tests for agentic core
 2023-12-14T00:00:00 - Refactor retriever logic for better performance
+2023-12-14T00:00:00 - Optimize query decomposition
