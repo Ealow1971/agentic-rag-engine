@@ -3720,3 +3720,4 @@
 2023-12-15T00:00:00 - Refactor distributed sharding logic
 2023-12-15T00:00:00 - Add support for custom embeddings
 2023-12-15T00:00:00 - Add support for custom embeddings
+2023-12-15T00:00:00 - Fix bug in vector indexing
