@@ -3745,3 +3745,4 @@
 2023-12-18T00:00:00 - Enhance data drift visualization
 2023-12-18T00:00:00 - Refactor retriever logic for better performance
 2023-12-18T00:00:00 - Add hybrid search support
+2023-12-18T00:00:00 - Integrate new vector store provider
