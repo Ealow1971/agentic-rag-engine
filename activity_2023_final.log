@@ -3749,3 +3749,4 @@
 2023-12-18T00:00:00 - Add logging for drift detection
 2023-12-18T00:00:00 - Clean up redundant code in retriever
 2023-12-18T00:00:00 - Add logging for drift detection
+2023-12-19T00:00:00 - Implement 4-bit quantization support
