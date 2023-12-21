@@ -3020,3 +3020,4 @@
 2023-12-12T00:00:00 - Clean up redundant code in retriever
 2023-12-12T00:00:00 - Fix bug in vector indexing
 2023-12-21T00:00:00 - Refactor distributed sharding logic
+2023-12-21T00:00:00 - Add hybrid search support
