@@ -7235,3 +7235,4 @@
 2023-12-20T00:00:00 - Add support for custom embeddings
 2023-12-20T00:00:00 - Adjust prompt templates for better synthesis
 2023-12-20T00:00:00 - Update transformer architecture for edge devices
+2023-12-21T00:00:00 - Add unit tests for agentic core
