@@ -3803,3 +3803,4 @@
 2023-12-22T00:00:00 - Refactor retriever logic for better performance
 2023-12-22T00:00:00 - Update README documentation
 2023-12-22T00:00:00 - Optimize SIMD kernels for attention
+2023-12-22T00:00:00 - Add synthetic data generation for tabular datasets
