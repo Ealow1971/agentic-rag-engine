@@ -3814,3 +3814,4 @@
 2023-12-22T00:00:00 - Implement caching for repeated queries
 2023-12-24T00:00:00 - Optimize SIMD kernels for attention
 2023-12-24T00:00:00 - Implement caching for repeated queries
+2023-12-25T00:00:00 - Add support for custom embeddings
