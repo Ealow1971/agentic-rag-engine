@@ -3826,3 +3826,4 @@
 2023-12-25T00:00:00 - Enhance data drift visualization
 2023-12-25T00:00:00 - Add synthetic data generation for tabular datasets
 2023-12-25T00:00:00 - Enhance document parsing capabilities
+2023-12-25T00:00:00 - Add logging for drift detection
