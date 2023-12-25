@@ -932,3 +932,4 @@
 2023-12-20T00:00:00 - Optimize query decomposition
 2023-12-20T00:00:00 - Add support for custom embeddings
 2023-12-21T00:00:00 - Update README documentation
+2023-12-25T00:00:00 - Enhance document parsing capabilities
