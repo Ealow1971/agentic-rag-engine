@@ -3836,3 +3836,4 @@
 2023-12-26T00:00:00 - Update gRPC service definitions
 2023-12-26T00:00:00 - Update requirements and dependencies
 2023-12-26T00:00:00 - Add support for custom embeddings
+2023-12-26T00:00:00 - Integrate new vector store provider
