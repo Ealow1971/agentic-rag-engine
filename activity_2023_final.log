@@ -3845,3 +3845,4 @@
 2023-12-27T00:00:00 - Adjust prompt templates for better synthesis
 2023-12-27T00:00:00 - Add hybrid search support
 2023-12-27T00:00:00 - Add hybrid search support
+2023-12-27T00:00:00 - Refactor retriever logic for better performance
