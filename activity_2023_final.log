@@ -3865,3 +3865,4 @@
 2023-12-28T00:00:00 - Enhance data drift visualization
 2023-12-28T00:00:00 - Optimize query decomposition
 2023-12-28T00:00:00 - Add support for custom embeddings
+2023-12-28T00:00:00 - Integrate new vector store provider
