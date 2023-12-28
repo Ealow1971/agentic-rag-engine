@@ -3857,3 +3857,4 @@
 2023-12-27T00:00:00 - Add logging for drift detection
 2023-12-28T00:00:00 - Add support for custom embeddings
 2023-12-28T00:00:00 - Integrate new vector store provider
+2023-12-28T00:00:00 - Update requirements and dependencies
