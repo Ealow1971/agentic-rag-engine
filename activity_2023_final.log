@@ -3871,3 +3871,4 @@
 2023-12-28T00:00:00 - Adjust prompt templates for better synthesis
 2023-12-28T00:00:00 - Add support for custom embeddings
 2023-12-28T00:00:00 - Optimize query decomposition
+2023-12-28T00:00:00 - Add hybrid search support
