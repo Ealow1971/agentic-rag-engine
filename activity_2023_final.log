@@ -3859,3 +3859,4 @@
 2023-12-28T00:00:00 - Integrate new vector store provider
 2023-12-28T00:00:00 - Update requirements and dependencies
 2023-12-28T00:00:00 - Update gRPC service definitions
+2023-12-28T00:00:00 - Optimize SIMD kernels for attention
