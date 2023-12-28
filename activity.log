@@ -944,3 +944,4 @@
 2023-12-27T00:00:00 - Update requirements and dependencies
 2023-12-27T00:00:00 - Optimize query decomposition
 2023-12-28T00:00:00 - Fix bug in vector indexing
+2023-12-28T00:00:00 - Improve error handling in API
