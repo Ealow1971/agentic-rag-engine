@@ -3877,3 +3877,4 @@
 2023-12-29T00:00:00 - Refactor retriever logic for better performance
 2023-12-29T00:00:00 - Refactor retriever logic for better performance
 2023-12-29T00:00:00 - Fix race condition in async processing
+2023-12-29T00:00:00 - Adjust prompt templates for better synthesis
