@@ -7295,3 +7295,4 @@
 2023-12-29T00:00:00 - Update requirements and dependencies
 2023-12-29T00:00:00 - Clean up redundant code in retriever
 2023-12-29T00:00:00 - Integrate new vector store provider
+2023-12-29T00:00:00 - Fix bug in vector indexing
