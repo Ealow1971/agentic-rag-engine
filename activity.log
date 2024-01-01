@@ -3125,3 +3125,4 @@
 2024-01-17T00:00:00 - Implement caching for repeated queries
 2024-01-17T00:00:00 - Refactor retriever logic for better performance
 2024-01-17T00:00:00 - Add unit tests for agentic core
+2024-01-01T00:00:00 - Optimize query decomposition
