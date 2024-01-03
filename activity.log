@@ -7324,3 +7324,4 @@
 2024-01-03T00:00:00 - Add support for multi-modal embeddings
 2024-01-03T00:00:00 - Clean up redundant code in retriever
 2024-01-03T00:00:00 - Fix bug in vector indexing
+2024-01-03T00:00:00 - Refactor retriever logic for better performance
