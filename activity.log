@@ -7322,3 +7322,4 @@
 2024-01-03T00:00:00 - Integrate new vector store provider
 2024-01-03T00:00:00 - Add unit tests for agentic core
 2024-01-03T00:00:00 - Add support for multi-modal embeddings
+2024-01-03T00:00:00 - Clean up redundant code in retriever
