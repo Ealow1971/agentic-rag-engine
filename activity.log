@@ -966,3 +966,4 @@
 2024-01-05T00:00:00 - Enhance document parsing capabilities
 2024-01-05T00:00:00 - Fix race condition in async processing
 2024-01-05T00:00:00 - Adjust prompt templates for better synthesis
+2024-01-05T00:00:00 - Fix bug in vector indexing
