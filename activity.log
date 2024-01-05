@@ -7332,3 +7332,4 @@
 2024-01-04T00:00:00 - Optimize SIMD kernels for attention
 2024-01-05T00:00:00 - Fix race condition in async processing
 2024-01-05T00:00:00 - Add hybrid search support
+2024-01-05T00:00:00 - Add unit tests for agentic core
