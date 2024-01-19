@@ -7436,3 +7436,4 @@
 2024-01-19T00:00:00 - Implement 4-bit quantization support
 2024-01-19T00:00:00 - Improve robustness of agentic workflows
 2024-01-19T00:00:00 - Refactor retriever logic for better performance
+2024-01-19T00:00:00 - Update transformer architecture for edge devices
