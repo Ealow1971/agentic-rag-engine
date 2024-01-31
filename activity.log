@@ -7512,3 +7512,4 @@
 2024-01-31T00:00:00 - Optimize SIMD kernels for attention
 2024-01-31T00:00:00 - Fix bug in vector indexing
 2024-01-31T00:00:00 - Update README documentation
+2024-01-31T00:00:00 - Fix race condition in async processing
