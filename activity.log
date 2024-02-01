@@ -3175,3 +3175,4 @@
 2024-02-19T00:00:00 - Add unit tests for agentic core
 2024-02-19T00:00:00 - Optimize SIMD kernels for attention
 2024-02-19T00:00:00 - Integrate new vector store provider
+2024-02-01T00:00:00 - Improve error handling in API
