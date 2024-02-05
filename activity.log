@@ -3181,3 +3181,4 @@
 2024-02-01T00:00:00 - Fix race condition in async processing
 2024-02-01T00:00:00 - Update README documentation
 2024-02-05T00:00:00 - Add support for custom embeddings
+2024-02-05T00:00:00 - Fix bug in vector indexing
