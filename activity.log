@@ -3216,3 +3216,4 @@
 2024-02-27T00:00:00 - Refactor distributed sharding logic
 2024-02-27T00:00:00 - Optimize SIMD kernels for attention
 2024-02-27T00:00:00 - Add support for custom embeddings
+2024-02-06T00:00:00 - Add support for custom embeddings
