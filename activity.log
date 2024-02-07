@@ -3223,3 +3223,4 @@
 2024-02-07T00:00:00 - Add logging for drift detection
 2024-02-07T00:00:00 - Add hybrid search support
 2024-02-07T00:00:00 - Add support for custom embeddings
+2024-02-07T00:00:00 - Implement caching for repeated queries
