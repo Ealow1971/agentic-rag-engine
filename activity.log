@@ -7578,3 +7578,4 @@
 2024-02-13T00:00:00 - Add hybrid search support
 2024-02-13T00:00:00 - Implement 4-bit quantization support
 2024-02-13T00:00:00 - Add support for custom embeddings
+2024-02-13T00:00:00 - Add support for multi-modal embeddings
