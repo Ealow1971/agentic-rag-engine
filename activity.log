@@ -1068,3 +1068,4 @@
 2024-02-14T00:00:00 - Clean up redundant code in retriever
 2024-02-14T00:00:00 - Update README documentation
 2024-02-14T00:00:00 - Optimize query decomposition
+2024-02-16T00:00:00 - Adjust prompt templates for better synthesis
