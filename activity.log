@@ -7590,3 +7590,4 @@
 2024-02-14T00:00:00 - Refactor MLOps CLI command structure
 2024-02-14T00:00:00 - Add support for multi-modal embeddings
 2024-02-16T00:00:00 - Add support for multi-modal embeddings
+2024-02-16T00:00:00 - Clean up redundant code in retriever
