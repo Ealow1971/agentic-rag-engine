@@ -7651,3 +7651,4 @@
 2024-02-23T00:00:00 - Optimize SIMD kernels for attention
 2024-02-23T00:00:00 - Integrate new vector store provider
 2024-02-23T00:00:00 - Enhance document parsing capabilities
+2024-02-23T00:00:00 - Implement 4-bit quantization support
