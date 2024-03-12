@@ -7734,3 +7734,4 @@
 2024-03-11T00:00:00 - Optimize SIMD kernels for attention
 2024-03-11T00:00:00 - Implement 4-bit quantization support
 2024-03-12T00:00:00 - Improve error handling in API
+2024-03-12T00:00:00 - Update requirements and dependencies
