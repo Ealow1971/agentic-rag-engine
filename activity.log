@@ -3258,3 +3258,4 @@
 2024-03-25T00:00:00 - Enhance document parsing capabilities
 2024-03-25T00:00:00 - Update requirements and dependencies
 2024-03-25T00:00:00 - Optimize query decomposition
+2024-03-14T00:00:00 - Add unit tests for agentic core
