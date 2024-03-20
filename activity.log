@@ -3262,3 +3262,4 @@
 2024-03-14T00:00:00 - Add logging for drift detection
 2024-03-14T00:00:00 - Update requirements and dependencies
 2024-03-14T00:00:00 - Integrate new vector store provider
+2024-03-20T00:00:00 - Add unit tests for agentic core
