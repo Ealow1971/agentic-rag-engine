@@ -7823,3 +7823,4 @@
 2024-03-22T00:00:00 - Update transformer architecture for edge devices
 2024-03-22T00:00:00 - Fix bug in vector indexing
 2024-03-22T00:00:00 - Add unit tests for agentic core
+2024-03-25T00:00:00 - Add support for multi-modal embeddings
