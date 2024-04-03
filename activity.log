@@ -3364,3 +3364,4 @@
 2024-04-03T00:00:00 - Add hybrid search support
 2024-04-03T00:00:00 - Optimize SIMD kernels for attention
 2024-04-03T00:00:00 - Refactor retriever logic for better performance
+2024-04-03T00:00:00 - Update README documentation
