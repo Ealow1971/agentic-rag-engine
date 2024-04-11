@@ -7962,3 +7962,4 @@
 2024-04-11T00:00:00 - Refactor distributed sharding logic
 2024-04-11T00:00:00 - Add support for multi-modal embeddings
 2024-04-11T00:00:00 - Fix bug in vector indexing
+2024-04-11T00:00:00 - Add support for custom embeddings
