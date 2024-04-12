@@ -7969,3 +7969,4 @@
 2024-04-12T00:00:00 - Update README documentation
 2024-04-12T00:00:00 - Optimize SIMD kernels for attention
 2024-04-12T00:00:00 - Implement 4-bit quantization support
+2024-04-12T00:00:00 - Implement caching for repeated queries
