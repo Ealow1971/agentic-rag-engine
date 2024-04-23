@@ -8029,3 +8029,4 @@
 2024-04-22T00:00:00 - Update LangGraph orchestration flow
 2024-04-22T00:00:00 - Adjust prompt templates for better synthesis
 2024-04-23T00:00:00 - Fix bug in vector indexing
+2024-04-23T00:00:00 - Add unit tests for agentic core
