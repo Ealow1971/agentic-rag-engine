@@ -1234,3 +1234,4 @@
 2024-04-23T00:00:00 - Enhance document parsing capabilities
 2024-04-23T00:00:00 - Update requirements and dependencies
 2024-04-23T00:00:00 - Clean up redundant code in retriever
+2024-04-23T00:00:00 - Add support for custom embeddings
