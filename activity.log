@@ -1237,3 +1237,4 @@
 2024-04-23T00:00:00 - Add support for custom embeddings
 2024-04-23T00:00:00 - Add support for custom embeddings
 2024-04-24T00:00:00 - Optimize query decomposition
+2024-04-24T00:00:00 - Fix bug in vector indexing
