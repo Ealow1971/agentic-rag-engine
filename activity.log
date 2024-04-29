@@ -1249,3 +1249,4 @@
 2024-04-26T00:00:00 - Adjust prompt templates for better synthesis
 2024-04-26T00:00:00 - Fix race condition in async processing
 2024-04-26T00:00:00 - Fix race condition in async processing
+2024-04-29T00:00:00 - Refactor retriever logic for better performance
