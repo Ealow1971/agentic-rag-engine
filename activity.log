@@ -8071,3 +8071,4 @@
 2024-05-01T00:00:00 - Implement 4-bit quantization support
 2024-05-01T00:00:00 - Add hybrid search support
 2024-05-01T00:00:00 - Refactor MLOps CLI command structure
+2024-05-01T00:00:00 - Update gRPC service definitions
