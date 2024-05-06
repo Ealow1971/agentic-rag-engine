@@ -8106,3 +8106,4 @@
 2024-05-06T00:00:00 - Improve robustness of agentic workflows
 2024-05-06T00:00:00 - Update gRPC service definitions
 2024-05-06T00:00:00 - Implement 4-bit quantization support
+2024-05-06T00:00:00 - Add hybrid search support
