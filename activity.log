@@ -8120,3 +8120,4 @@
 2024-05-07T00:00:00 - Add support for custom embeddings
 2024-05-07T00:00:00 - Add support for custom embeddings
 2024-05-07T00:00:00 - Integrate new vector store provider
+2024-05-07T00:00:00 - Update transformer architecture for edge devices
