@@ -8194,3 +8194,4 @@
 2024-05-14T00:00:00 - Integrate new vector store provider
 2024-05-15T00:00:00 - Add support for multi-modal embeddings
 2024-05-15T00:00:00 - Optimize query decomposition
+2024-05-15T00:00:00 - Refactor retriever logic for better performance
