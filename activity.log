@@ -8205,3 +8205,4 @@
 2024-05-16T00:00:00 - Add support for multi-modal embeddings
 2024-05-16T00:00:00 - Update gRPC service definitions
 2024-05-16T00:00:00 - Update README documentation
+2024-05-16T00:00:00 - Refactor retriever logic for better performance
