@@ -3417,3 +3417,4 @@
 2024-05-20T00:00:00 - Optimize query decomposition
 2024-05-21T00:00:00 - Fix race condition in async processing
 2024-05-21T00:00:00 - Refactor retriever logic for better performance
+2024-05-21T00:00:00 - Adjust prompt templates for better synthesis
