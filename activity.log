@@ -8252,3 +8252,4 @@
 2024-05-24T00:00:00 - Add hybrid search support
 2024-05-24T00:00:00 - Add support for custom embeddings
 2024-05-24T00:00:00 - Update transformer architecture for edge devices
+2024-05-24T00:00:00 - Improve robustness of agentic workflows
