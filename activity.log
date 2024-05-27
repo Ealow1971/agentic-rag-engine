@@ -1313,3 +1313,4 @@
 2024-05-23T00:00:00 - Add hybrid search support
 2024-05-24T00:00:00 - Adjust prompt templates for better synthesis
 2024-05-24T00:00:00 - Improve error handling in API
+2024-05-27T00:00:00 - Add support for custom embeddings
