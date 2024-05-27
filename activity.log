@@ -8254,3 +8254,4 @@
 2024-05-24T00:00:00 - Update transformer architecture for edge devices
 2024-05-24T00:00:00 - Improve robustness of agentic workflows
 2024-05-27T00:00:00 - Fix race condition in async processing
+2024-05-27T00:00:00 - Add hybrid search support
