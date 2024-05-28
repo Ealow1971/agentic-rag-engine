@@ -1318,3 +1318,4 @@
 2024-05-27T00:00:00 - Add hybrid search support
 2024-05-27T00:00:00 - Fix race condition in async processing
 2024-05-28T00:00:00 - Improve error handling in API
+2024-05-28T00:00:00 - Update requirements and dependencies
