@@ -8275,3 +8275,4 @@
 2024-05-29T00:00:00 - Add unit tests for agentic core
 2024-05-29T00:00:00 - Optimize SIMD kernels for attention
 2024-05-29T00:00:00 - Update requirements and dependencies
+2024-05-29T00:00:00 - Add hybrid search support
