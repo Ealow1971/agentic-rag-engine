@@ -8294,3 +8294,4 @@
 2024-05-30T00:00:00 - Add unit tests for agentic core
 2024-05-30T00:00:00 - Improve CUDA kernel performance
 2024-05-31T00:00:00 - Update gRPC service definitions
+2024-05-31T00:00:00 - Update transformer architecture for edge devices
