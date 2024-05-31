@@ -8303,3 +8303,4 @@
 2024-05-31T00:00:00 - Add unit tests for agentic core
 2024-05-31T00:00:00 - Optimize query decomposition
 2024-05-31T00:00:00 - Optimize SIMD kernels for attention
+2024-05-31T00:00:00 - Implement 4-bit quantization support
