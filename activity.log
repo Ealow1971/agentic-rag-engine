@@ -8361,3 +8361,4 @@
 2024-06-11T00:00:00 - Optimize query decomposition
 2024-06-11T00:00:00 - Fix bug in vector indexing
 2024-06-11T00:00:00 - Implement 4-bit quantization support
+2024-06-11T00:00:00 - Optimize SIMD kernels for attention
