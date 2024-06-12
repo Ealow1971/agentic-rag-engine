@@ -8370,3 +8370,4 @@
 2024-06-12T00:00:00 - Improve error handling in API
 2024-06-12T00:00:00 - Add support for multi-modal embeddings
 2024-06-12T00:00:00 - Fix bug in vector indexing
+2024-06-12T00:00:00 - Integrate new vector store provider
