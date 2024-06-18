@@ -8397,3 +8397,4 @@
 2024-06-16T00:00:00 - Fix race condition in async processing
 2024-06-16T00:00:00 - Fix bug in vector indexing
 2024-06-17T00:00:00 - Add support for custom embeddings
+2024-06-17T00:00:00 - Refactor retriever logic for better performance
