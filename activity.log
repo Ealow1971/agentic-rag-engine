@@ -8473,3 +8473,4 @@
 2024-06-26T00:00:00 - Improve error handling in API
 2024-06-26T00:00:00 - Update requirements and dependencies
 2024-06-26T00:00:00 - Add unit tests for agentic core
+2024-06-26T00:00:00 - Integrate new vector store provider
