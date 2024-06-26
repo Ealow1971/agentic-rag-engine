@@ -3438,3 +3438,4 @@
 2024-06-14T00:00:00 - Update LangGraph orchestration flow
 2024-06-14T00:00:00 - Add logging for drift detection
 2024-06-26T00:00:00 - Enhance document parsing capabilities
+2024-06-26T00:00:00 - Add unit tests for agentic core
