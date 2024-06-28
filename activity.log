@@ -8478,3 +8478,4 @@
 2024-06-28T00:00:00 - Refactor retriever logic for better performance
 2024-06-28T00:00:00 - Optimize memory management in C++ engine
 2024-06-28T00:00:00 - Implement 4-bit quantization support
+2024-06-28T00:00:00 - Optimize SIMD kernels for attention
