@@ -3500,3 +3500,4 @@
 2024-07-01T00:00:00 - Add support for custom embeddings
 2024-07-01T00:00:00 - Add logging for drift detection
 2024-07-01T00:00:00 - Clean up redundant code in retriever
+2024-07-01T00:00:00 - Update README documentation
