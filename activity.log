@@ -3553,3 +3553,4 @@
 2024-07-04T00:00:00 - Add hybrid search support
 2024-07-04T00:00:00 - Integrate new vector store provider
 2024-07-04T00:00:00 - Update requirements and dependencies
+2024-07-04T00:00:00 - Improve error handling in API
