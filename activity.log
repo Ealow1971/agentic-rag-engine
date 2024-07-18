@@ -8591,3 +8591,4 @@
 2024-07-16T00:00:00 - Update gRPC service definitions
 2024-07-17T00:00:00 - Implement 4-bit quantization support
 2024-07-17T00:00:00 - Adjust prompt templates for better synthesis
+2024-07-17T00:00:00 - Add support for multi-modal embeddings
