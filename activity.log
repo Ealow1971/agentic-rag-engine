@@ -8595,3 +8595,4 @@
 2024-07-17T00:00:00 - Add logging for drift detection
 2024-07-17T00:00:00 - Update requirements and dependencies
 2024-07-17T00:00:00 - Optimize SIMD kernels for attention
+2024-07-18T00:00:00 - Optimize query decomposition
