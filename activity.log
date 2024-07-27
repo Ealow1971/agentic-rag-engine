@@ -8674,3 +8674,4 @@
 2024-07-26T00:00:00 - Integrate new vector store provider
 2024-07-26T00:00:00 - Update README documentation
 2024-07-26T00:00:00 - Add support for custom embeddings
+2024-07-26T00:00:00 - Optimize SIMD kernels for attention
