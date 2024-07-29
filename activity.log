@@ -3532,3 +3532,4 @@
 2024-07-31T00:00:00 - Fix bug in vector indexing
 2024-07-31T00:00:00 - Update README documentation
 2024-07-29T00:00:00 - Add unit tests for agentic core
+2024-07-29T00:00:00 - Implement caching for repeated queries
