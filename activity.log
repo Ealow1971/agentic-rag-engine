@@ -1467,3 +1467,4 @@
 2024-07-29T00:00:00 - Fix race condition in async processing
 2024-07-29T00:00:00 - Fix race condition in async processing
 2024-07-29T00:00:00 - Update requirements and dependencies
+2024-07-30T00:00:00 - Add support for custom embeddings
