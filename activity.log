@@ -8696,3 +8696,4 @@
 2024-07-31T00:00:00 - Update gRPC service definitions
 2024-07-31T00:00:00 - Fix bug in vector indexing
 2024-07-31T00:00:00 - Add support for multi-modal embeddings
+2024-07-31T00:00:00 - Add synthetic data generation for tabular datasets
