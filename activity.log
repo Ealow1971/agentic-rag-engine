@@ -3598,3 +3598,4 @@
 2024-08-27T00:00:00 - Update README documentation
 2024-08-27T00:00:00 - Add support for custom embeddings
 2024-08-12T00:00:00 - Fix race condition in async processing
+2024-08-12T00:00:00 - Improve error handling in API
