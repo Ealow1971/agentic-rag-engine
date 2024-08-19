@@ -1522,3 +1522,4 @@
 2024-08-19T00:00:00 - Refactor retriever logic for better performance
 2024-08-19T00:00:00 - Fix bug in vector indexing
 2024-08-19T00:00:00 - Add support for custom embeddings
+2024-08-19T00:00:00 - Optimize query decomposition
