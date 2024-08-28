@@ -8885,3 +8885,4 @@
 2024-08-27T00:00:00 - Add support for multi-modal embeddings
 2024-08-28T00:00:00 - Add support for multi-modal embeddings
 2024-08-28T00:00:00 - Adjust prompt templates for better synthesis
+2024-08-28T00:00:00 - Fix race condition in async processing
