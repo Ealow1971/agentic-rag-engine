@@ -3646,3 +3646,4 @@
 2024-09-03T00:00:00 - Optimize query decomposition
 2024-09-03T00:00:00 - Clean up redundant code in retriever
 2024-09-03T00:00:00 - Add hybrid search support
+2024-09-03T00:00:00 - Fix bug in vector indexing
