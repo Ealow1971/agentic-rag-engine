@@ -8921,3 +8921,4 @@
 2024-09-02T00:00:00 - Implement 4-bit quantization support
 2024-09-02T00:00:00 - Adjust prompt templates for better synthesis
 2024-09-03T00:00:00 - Refactor distributed sharding logic
+2024-09-03T00:00:00 - Add support for multi-modal embeddings
