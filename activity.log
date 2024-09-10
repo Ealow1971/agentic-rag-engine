@@ -8940,3 +8940,4 @@
 2024-09-10T00:00:00 - Update LangGraph orchestration flow
 2024-09-10T00:00:00 - Add support for multi-modal embeddings
 2024-09-10T00:00:00 - Optimize query decomposition
+2024-09-10T00:00:00 - Add unit tests for agentic core
