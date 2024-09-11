@@ -8955,3 +8955,4 @@
 2024-09-11T00:00:00 - Optimize SIMD kernels for attention
 2024-09-11T00:00:00 - Fix race condition in async processing
 2024-09-11T00:00:00 - Implement 4-bit quantization support
+2024-09-11T00:00:00 - Update README documentation
