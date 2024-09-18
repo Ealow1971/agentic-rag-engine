@@ -8988,3 +8988,4 @@
 2024-09-16T00:00:00 - Adjust prompt templates for better synthesis
 2024-09-16T00:00:00 - Implement 4-bit quantization support
 2024-09-18T00:00:00 - Improve CUDA kernel performance
+2024-09-18T00:00:00 - Optimize query decomposition
