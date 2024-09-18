@@ -1600,3 +1600,4 @@
 2024-09-17T00:00:00 - Refactor retriever logic for better performance
 2024-09-17T00:00:00 - Add hybrid search support
 2024-09-18T00:00:00 - Fix race condition in async processing
+2024-09-18T00:00:00 - Fix bug in vector indexing
