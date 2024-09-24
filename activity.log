@@ -3688,3 +3688,4 @@
 2024-09-16T00:00:00 - Fix bug in vector indexing
 2024-09-24T00:00:00 - Update README documentation
 2024-09-24T00:00:00 - Add support for custom embeddings
+2024-09-24T00:00:00 - Optimize query decomposition
