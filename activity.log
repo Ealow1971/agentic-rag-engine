@@ -3729,3 +3729,4 @@
 2024-10-03T00:00:00 - Optimize query decomposition
 2024-10-03T00:00:00 - Add support for custom embeddings
 2024-10-01T00:00:00 - Add unit tests for agentic core
+2024-10-01T00:00:00 - Update requirements and dependencies
