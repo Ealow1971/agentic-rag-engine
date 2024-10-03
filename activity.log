@@ -3727,3 +3727,4 @@
 2024-10-03T00:00:00 - Update requirements and dependencies
 2024-10-03T00:00:00 - Update CI/CD pipeline for Rust components
 2024-10-03T00:00:00 - Optimize query decomposition
+2024-10-03T00:00:00 - Add support for custom embeddings
