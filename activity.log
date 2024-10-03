@@ -3723,3 +3723,4 @@
 2024-10-31T00:00:00 - Optimize query decomposition
 2024-10-31T00:00:00 - Add hybrid search support
 2024-10-31T00:00:00 - Update requirements and dependencies
+2024-10-03T00:00:00 - Improve error handling in API
