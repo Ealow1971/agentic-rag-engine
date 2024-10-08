@@ -9138,3 +9138,4 @@
 2024-10-08T00:00:00 - Fix race condition in async processing
 2024-10-08T00:00:00 - Implement 4-bit quantization support
 2024-10-08T00:00:00 - Add support for multi-modal embeddings
+2024-10-08T00:00:00 - Improve error handling in API
