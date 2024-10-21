@@ -3707,3 +3707,4 @@
 2024-09-04T00:00:00 - Update README documentation
 2024-10-21T00:00:00 - Add hybrid search support
 2024-10-21T00:00:00 - Refactor retriever logic for better performance
+2024-10-21T00:00:00 - Implement caching for repeated queries
