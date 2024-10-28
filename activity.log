@@ -3739,3 +3739,4 @@
 2024-10-10T00:00:00 - Update requirements and dependencies
 2024-10-10T00:00:00 - Enhance document parsing capabilities
 2024-10-28T00:00:00 - Add hybrid search support
+2024-10-28T00:00:00 - Optimize SIMD kernels for attention
