@@ -9230,3 +9230,4 @@
 2024-10-30T00:00:00 - Fix bug in vector indexing
 2024-10-30T00:00:00 - Optimize SIMD kernels for attention
 2024-10-30T00:00:00 - Integrate new vector store provider
+2024-10-30T00:00:00 - Update requirements and dependencies
