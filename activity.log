@@ -3776,3 +3776,4 @@
 2024-11-01T00:00:00 - Update README documentation
 2024-11-01T00:00:00 - Optimize query decomposition
 2024-11-01T00:00:00 - Update requirements and dependencies
+2024-11-01T00:00:00 - Fix bug in vector indexing
