@@ -9261,3 +9261,4 @@
 2024-11-04T00:00:00 - Add support for multi-modal embeddings
 2024-11-04T00:00:00 - Clean up redundant code in retriever
 2024-11-04T00:00:00 - Improve CUDA kernel performance
+2024-11-04T00:00:00 - Add support for custom embeddings
