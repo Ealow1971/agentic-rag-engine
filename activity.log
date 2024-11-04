@@ -9258,3 +9258,4 @@
 2024-11-01T00:00:00 - Update transformer architecture for edge devices
 2024-11-02T00:00:00 - Update requirements and dependencies
 2024-11-04T00:00:00 - Clean up redundant code in retriever
+2024-11-04T00:00:00 - Add support for multi-modal embeddings
