@@ -9381,3 +9381,4 @@
 2024-11-19T00:00:00 - Add support for multi-modal embeddings
 2024-11-19T00:00:00 - Implement 4-bit quantization support
 2024-11-19T00:00:00 - Add synthetic data generation for tabular datasets
+2024-11-20T00:00:00 - Add unit tests for agentic core
