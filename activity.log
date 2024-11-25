@@ -3815,3 +3815,4 @@
 2024-11-20T00:00:00 - Enhance document parsing capabilities
 2024-11-25T00:00:00 - Fix race condition in async processing
 2024-11-25T00:00:00 - Clean up redundant code in retriever
+2024-11-25T00:00:00 - Improve error handling in API
