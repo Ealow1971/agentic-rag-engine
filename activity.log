@@ -1826,3 +1826,4 @@
 2024-12-12T00:00:00 - Update requirements and dependencies
 2024-12-12T00:00:00 - Clean up redundant code in retriever
 2024-12-12T00:00:00 - Add unit tests for agentic core
+2024-12-12T00:00:00 - Fix bug in vector indexing
