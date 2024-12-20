@@ -9590,3 +9590,4 @@
 2024-12-19T00:00:00 - Update transformer architecture for edge devices
 2024-12-19T00:00:00 - Clean up redundant code in retriever
 2024-12-19T00:00:00 - Improve CUDA kernel performance
+2024-12-20T00:00:00 - Add unit tests for agentic core
