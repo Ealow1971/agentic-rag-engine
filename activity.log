@@ -1883,3 +1883,4 @@
 2025-01-01T00:00:00 - Add support for custom embeddings
 2025-01-01T00:00:00 - Update README documentation
 2025-01-01T00:00:00 - Add unit tests for agentic core
+2025-01-01T00:00:00 - Add hybrid search support
