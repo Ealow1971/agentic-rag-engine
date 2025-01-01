@@ -9665,3 +9665,4 @@
 2025-01-01T00:00:00 - Enhance document parsing capabilities
 2025-01-01T00:00:00 - Update requirements and dependencies
 2025-01-01T00:00:00 - Fix race condition in async processing
+2025-01-01T00:00:00 - Add support for multi-modal embeddings
