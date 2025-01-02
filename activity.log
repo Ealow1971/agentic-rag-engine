@@ -3950,3 +3950,4 @@
 2025-01-30T00:00:00 - Add unit tests for agentic core
 2025-01-02T00:00:00 - Add logging for drift detection
 2025-01-02T00:00:00 - Update README documentation
+2025-01-02T00:00:00 - Add support for custom embeddings
