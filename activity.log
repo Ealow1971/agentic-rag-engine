@@ -1892,3 +1892,4 @@
 2025-01-03T00:00:00 - Optimize query decomposition
 2025-01-03T00:00:00 - Add unit tests for agentic core
 2025-01-07T00:00:00 - Update requirements and dependencies
+2025-01-07T00:00:00 - Improve error handling in API
