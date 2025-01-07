@@ -9692,3 +9692,4 @@
 2025-01-06T00:00:00 - Implement 4-bit quantization support
 2025-01-06T00:00:00 - Fix race condition in async processing
 2025-01-06T00:00:00 - Add hybrid search support
+2025-01-06T00:00:00 - Refactor MLOps CLI command structure
