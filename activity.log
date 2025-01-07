@@ -9699,3 +9699,4 @@
 2025-01-07T00:00:00 - Update gRPC service definitions
 2025-01-07T00:00:00 - Optimize memory management in C++ engine
 2025-01-07T00:00:00 - Clean up redundant code in retriever
+2025-01-07T00:00:00 - Add hybrid search support
