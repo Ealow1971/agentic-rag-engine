@@ -9763,3 +9763,4 @@
 2025-01-17T00:00:00 - Update transformer architecture for edge devices
 2025-01-17T00:00:00 - Update transformer architecture for edge devices
 2025-01-17T00:00:00 - Enhance data drift visualization
+2025-01-21T00:00:00 - Implement 4-bit quantization support
