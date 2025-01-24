@@ -1934,3 +1934,4 @@
 2025-01-23T00:00:00 - Fix bug in vector indexing
 2025-01-23T00:00:00 - Add unit tests for agentic core
 2025-01-24T00:00:00 - Add support for custom embeddings
+2025-01-24T00:00:00 - Refactor retriever logic for better performance
