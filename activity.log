@@ -1937,3 +1937,4 @@
 2025-01-24T00:00:00 - Refactor retriever logic for better performance
 2025-01-24T00:00:00 - Fix bug in vector indexing
 2025-01-24T00:00:00 - Update requirements and dependencies
+2025-01-24T00:00:00 - Clean up redundant code in retriever
