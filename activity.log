@@ -1940,3 +1940,4 @@
 2025-01-24T00:00:00 - Clean up redundant code in retriever
 2025-01-24T00:00:00 - Fix race condition in async processing
 2025-01-24T00:00:00 - Add hybrid search support
+2025-01-24T00:00:00 - Update README documentation
