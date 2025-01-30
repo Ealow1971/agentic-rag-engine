@@ -9814,3 +9814,4 @@
 2025-01-29T00:00:00 - Add support for custom embeddings
 2025-01-30T00:00:00 - Fix bug in vector indexing
 2025-01-30T00:00:00 - Add logging for drift detection
+2025-01-30T00:00:00 - Add support for multi-modal embeddings
