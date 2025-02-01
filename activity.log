@@ -9822,3 +9822,4 @@
 2025-01-31T00:00:00 - Add support for custom embeddings
 2025-01-31T00:00:00 - Optimize query decomposition
 2025-01-31T00:00:00 - Refactor retriever logic for better performance
+2025-01-31T00:00:00 - Implement 4-bit quantization support
