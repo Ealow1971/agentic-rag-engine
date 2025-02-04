@@ -1961,3 +1961,4 @@
 2025-02-04T00:00:00 - Update README documentation
 2025-02-04T00:00:00 - Fix race condition in async processing
 2025-02-04T00:00:00 - Add unit tests for agentic core
+2025-02-04T00:00:00 - Improve error handling in API
