@@ -1958,3 +1958,4 @@
 2025-01-31T00:00:00 - Add unit tests for agentic core
 2025-02-04T00:00:00 - Clean up redundant code in retriever
 2025-02-04T00:00:00 - Optimize query decomposition
+2025-02-04T00:00:00 - Update README documentation
