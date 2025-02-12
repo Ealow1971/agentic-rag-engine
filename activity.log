@@ -9890,3 +9890,4 @@
 2025-02-12T00:00:00 - Fix bug in vector indexing
 2025-02-12T00:00:00 - Refactor retriever logic for better performance
 2025-02-12T00:00:00 - Implement 4-bit quantization support
+2025-02-12T00:00:00 - Add support for custom embeddings
