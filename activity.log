@@ -1983,3 +1983,4 @@
 2025-02-11T00:00:00 - Improve error handling in API
 2025-02-11T00:00:00 - Add support for custom embeddings
 2025-02-11T00:00:00 - Add support for custom embeddings
+2025-02-12T00:00:00 - Fix bug in vector indexing
