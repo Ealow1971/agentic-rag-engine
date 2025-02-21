@@ -2006,3 +2006,4 @@
 2025-02-18T00:00:00 - Update requirements and dependencies
 2025-02-21T00:00:00 - Adjust prompt templates for better synthesis
 2025-02-21T00:00:00 - Clean up redundant code in retriever
+2025-02-21T00:00:00 - Optimize query decomposition
