@@ -4015,3 +4015,4 @@
 2025-02-06T00:00:00 - Enhance document parsing capabilities
 2025-02-06T00:00:00 - Add logging for drift detection
 2025-02-25T00:00:00 - Fix bug in vector indexing
+2025-02-25T00:00:00 - Add hybrid search support
