@@ -2017,3 +2017,4 @@
 2025-02-26T00:00:00 - Fix bug in vector indexing
 2025-02-26T00:00:00 - Add support for custom embeddings
 2025-02-27T00:00:00 - Refactor retriever logic for better performance
+2025-02-27T00:00:00 - Add hybrid search support
