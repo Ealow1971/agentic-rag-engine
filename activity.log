@@ -4089,3 +4089,4 @@
 2025-03-03T00:00:00 - Adjust prompt templates for better synthesis
 2025-03-03T00:00:00 - Update requirements and dependencies
 2025-03-03T00:00:00 - Add support for custom embeddings
+2025-03-03T00:00:00 - Add unit tests for agentic core
