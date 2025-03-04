@@ -4046,3 +4046,4 @@
 2025-03-24T00:00:00 - Clean up redundant code in retriever
 2025-03-24T00:00:00 - Fix race condition in async processing
 2025-03-04T00:00:00 - Add unit tests for agentic core
+2025-03-04T00:00:00 - Improve error handling in API
