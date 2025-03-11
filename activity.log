@@ -4068,3 +4068,4 @@
 2025-03-18T00:00:00 - Update requirements and dependencies
 2025-03-18T00:00:00 - Add unit tests for agentic core
 2025-03-11T00:00:00 - Optimize SIMD kernels for attention
+2025-03-11T00:00:00 - Integrate new vector store provider
