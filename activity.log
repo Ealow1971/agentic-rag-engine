@@ -2068,3 +2068,4 @@
 2025-03-20T00:00:00 - Add unit tests for agentic core
 2025-03-21T00:00:00 - Update README documentation
 2025-03-21T00:00:00 - Add support for custom embeddings
+2025-03-21T00:00:00 - Refactor retriever logic for better performance
