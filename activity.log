@@ -2071,3 +2071,4 @@
 2025-03-21T00:00:00 - Refactor retriever logic for better performance
 2025-03-21T00:00:00 - Add support for custom embeddings
 2025-03-24T00:00:00 - Enhance document parsing capabilities
+2025-03-24T00:00:00 - Clean up redundant code in retriever
