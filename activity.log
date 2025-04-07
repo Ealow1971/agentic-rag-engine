@@ -4120,3 +4120,4 @@
 2025-04-30T00:00:00 - Integrate new vector store provider
 2025-04-30T00:00:00 - Enhance document parsing capabilities
 2025-04-30T00:00:00 - Fix race condition in async processing
+2025-04-07T00:00:00 - Optimize SIMD kernels for attention
