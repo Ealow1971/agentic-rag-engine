@@ -2136,3 +2136,4 @@
 2025-04-17T00:00:00 - Add support for custom embeddings
 2025-04-17T00:00:00 - Add unit tests for agentic core
 2025-04-17T00:00:00 - Fix bug in vector indexing
+2025-04-18T00:00:00 - Enhance document parsing capabilities
