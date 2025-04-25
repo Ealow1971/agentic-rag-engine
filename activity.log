@@ -2155,3 +2155,4 @@
 2025-04-24T00:00:00 - Add hybrid search support
 2025-04-25T00:00:00 - Adjust prompt templates for better synthesis
 2025-04-25T00:00:00 - Update requirements and dependencies
+2025-04-25T00:00:00 - Add support for custom embeddings
