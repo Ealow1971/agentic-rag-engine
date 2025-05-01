@@ -4159,3 +4159,4 @@
 2025-04-23T00:00:00 - Fix race condition in async processing
 2025-04-23T00:00:00 - Add logging for drift detection
 2025-04-23T00:00:00 - Add support for custom embeddings
+2025-05-01T00:00:00 - Fix race condition in async processing
