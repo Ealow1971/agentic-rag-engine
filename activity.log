@@ -2193,3 +2193,4 @@
 2025-05-12T00:00:00 - Refactor retriever logic for better performance
 2025-05-13T00:00:00 - Update LangGraph orchestration flow
 2025-05-13T00:00:00 - Enhance document parsing capabilities
+2025-05-13T00:00:00 - Add hybrid search support
