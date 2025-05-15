@@ -2208,3 +2208,4 @@
 2025-05-15T00:00:00 - Fix race condition in async processing
 2025-05-15T00:00:00 - Clean up redundant code in retriever
 2025-05-15T00:00:00 - Improve error handling in API
+2025-05-15T00:00:00 - Fix bug in vector indexing
