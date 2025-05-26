@@ -2229,3 +2229,4 @@
 2025-05-23T00:00:00 - Add support for custom embeddings
 2025-05-23T00:00:00 - Fix bug in vector indexing
 2025-05-26T00:00:00 - Refactor retriever logic for better performance
+2025-05-26T00:00:00 - Fix race condition in async processing
