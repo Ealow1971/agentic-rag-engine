@@ -2232,3 +2232,4 @@
 2025-05-26T00:00:00 - Fix race condition in async processing
 2025-05-27T00:00:00 - Add unit tests for agentic core
 2025-05-27T00:00:00 - Clean up redundant code in retriever
+2025-05-27T00:00:00 - Add support for custom embeddings
