@@ -4187,3 +4187,4 @@
 2025-05-27T00:00:00 - Add support for custom embeddings
 2025-05-27T00:00:00 - Add support for custom embeddings
 2025-05-27T00:00:00 - Update requirements and dependencies
+2025-05-27T00:00:00 - Clean up redundant code in retriever
