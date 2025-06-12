@@ -2278,3 +2278,4 @@
 2025-06-11T00:00:00 - Update README documentation
 2025-06-11T00:00:00 - Update requirements and dependencies
 2025-06-11T00:00:00 - Add support for custom embeddings
+2025-06-12T00:00:00 - Fix bug in vector indexing
