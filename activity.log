@@ -2286,3 +2286,4 @@
 2025-06-13T00:00:00 - Add unit tests for agentic core
 2025-06-13T00:00:00 - Optimize query decomposition
 2025-06-16T00:00:00 - Implement caching for repeated queries
+2025-06-16T00:00:00 - Add hybrid search support
