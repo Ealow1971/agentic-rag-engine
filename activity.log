@@ -2304,3 +2304,4 @@
 2025-06-26T00:00:00 - Add hybrid search support
 2025-06-26T00:00:00 - Refactor retriever logic for better performance
 2025-06-27T00:00:00 - Add unit tests for agentic core
+2025-06-30T00:00:00 - Update requirements and dependencies
