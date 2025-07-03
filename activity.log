@@ -4333,3 +4333,4 @@
 2025-07-15T00:00:00 - Add support for custom embeddings
 2025-07-15T00:00:00 - Integrate new vector store provider
 2025-07-15T00:00:00 - Optimize query decomposition
+2025-07-03T00:00:00 - Update requirements and dependencies
