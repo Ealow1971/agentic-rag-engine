@@ -4330,3 +4330,4 @@
 2025-07-15T00:00:00 - Enhance document parsing capabilities
 2025-07-15T00:00:00 - Fix bug in vector indexing
 2025-07-15T00:00:00 - Integrate new vector store provider
+2025-07-15T00:00:00 - Add support for custom embeddings
