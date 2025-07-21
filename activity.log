@@ -4345,3 +4345,4 @@
 2025-07-24T00:00:00 - Update requirements and dependencies
 2025-07-24T00:00:00 - Fix bug in vector indexing
 2025-07-24T00:00:00 - Clean up redundant code in retriever
+2025-07-21T00:00:00 - Optimize query decomposition
