@@ -4355,3 +4355,4 @@
 2025-07-16T00:00:00 - Adjust prompt templates for better synthesis
 2025-07-16T00:00:00 - Add hybrid search support
 2025-07-16T00:00:00 - Refactor retriever logic for better performance
+2025-07-22T00:00:00 - Fix race condition in async processing
