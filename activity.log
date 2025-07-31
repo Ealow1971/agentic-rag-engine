@@ -4369,3 +4369,4 @@
 2025-07-31T00:00:00 - Add support for custom embeddings
 2025-07-31T00:00:00 - Integrate new vector store provider
 2025-07-31T00:00:00 - Optimize query decomposition
+2025-07-31T00:00:00 - Fix race condition in async processing
