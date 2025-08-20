@@ -4444,3 +4444,4 @@
 2025-08-05T00:00:00 - Integrate new vector store provider
 2025-08-05T00:00:00 - Refactor retriever logic for better performance
 2025-08-05T00:00:00 - Optimize query decomposition
+2025-08-20T00:00:00 - Add unit tests for agentic core
