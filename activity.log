@@ -4459,3 +4459,4 @@
 2025-09-15T00:00:00 - Add support for custom embeddings
 2025-09-15T00:00:00 - Fix bug in vector indexing
 2025-09-15T00:00:00 - Update LangGraph orchestration flow
+2025-09-11T00:00:00 - Optimize query decomposition
