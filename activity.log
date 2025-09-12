@@ -4474,3 +4474,4 @@
 2025-09-25T00:00:00 - Add logging for drift detection
 2025-09-25T00:00:00 - Optimize SIMD kernels for attention
 2025-09-25T00:00:00 - Optimize query decomposition
+2025-09-12T00:00:00 - Add support for custom embeddings
