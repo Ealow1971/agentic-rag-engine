@@ -4478,3 +4478,4 @@
 2025-09-12T00:00:00 - Add hybrid search support
 2025-09-12T00:00:00 - Integrate new vector store provider
 2025-09-24T00:00:00 - Fix race condition in async processing
+2025-09-24T00:00:00 - Optimize SIMD kernels for attention
