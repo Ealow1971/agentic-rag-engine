@@ -4578,3 +4578,4 @@
 2025-10-02T00:00:00 - Enhance document parsing capabilities
 2025-10-02T00:00:00 - Refactor distributed sharding logic
 2025-10-02T00:00:00 - Add support for custom embeddings
+2025-10-02T00:00:00 - Add logging for drift detection
