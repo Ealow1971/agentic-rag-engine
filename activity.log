@@ -4526,3 +4526,4 @@
 2025-10-24T00:00:00 - Add support for custom embeddings
 2025-10-24T00:00:00 - Implement caching for repeated queries
 2025-10-24T00:00:00 - Add hybrid search support
+2025-10-24T00:00:00 - Optimize SIMD kernels for attention
