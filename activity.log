@@ -4561,3 +4561,4 @@
 2025-10-01T00:00:00 - Add support for custom embeddings
 2025-10-01T00:00:00 - Refactor distributed sharding logic
 2025-10-01T00:00:00 - Update CI/CD pipeline for Rust components
+2025-10-27T00:00:00 - Add hybrid search support
