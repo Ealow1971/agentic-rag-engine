@@ -4516,3 +4516,4 @@
 2025-09-16T00:00:00 - Add support for custom embeddings
 2025-09-16T00:00:00 - Update README documentation
 2025-10-30T00:00:00 - Add logging for drift detection
+2025-10-30T00:00:00 - Refactor distributed sharding logic
