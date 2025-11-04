@@ -4596,3 +4596,4 @@
 2025-11-04T00:00:00 - Add hybrid search support
 2025-11-04T00:00:00 - Refactor retriever logic for better performance
 2025-11-04T00:00:00 - Clean up redundant code in retriever
+2025-11-04T00:00:00 - Update README documentation
