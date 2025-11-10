@@ -4589,3 +4589,4 @@
 2025-11-10T00:00:00 - Optimize query decomposition
 2025-11-10T00:00:00 - Fix bug in vector indexing
 2025-11-10T00:00:00 - Add support for custom embeddings
+2025-11-10T00:00:00 - Add unit tests for agentic core
