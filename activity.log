@@ -4599,3 +4599,4 @@
 2025-11-04T00:00:00 - Update README documentation
 2025-11-04T00:00:00 - Optimize query decomposition
 2025-11-17T00:00:00 - Clean up redundant code in retriever
+2025-11-17T00:00:00 - Add hybrid search support
