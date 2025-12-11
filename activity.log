@@ -4692,3 +4692,4 @@
 2025-12-11T00:00:00 - Update README documentation
 2025-12-11T00:00:00 - Optimize SIMD kernels for attention
 2025-12-11T00:00:00 - Enhance document parsing capabilities
+2025-12-11T00:00:00 - Refactor retriever logic for better performance
