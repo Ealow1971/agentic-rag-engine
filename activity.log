@@ -4660,3 +4660,4 @@
 2025-12-26T00:00:00 - Optimize SIMD kernels for attention
 2025-12-26T00:00:00 - Optimize query decomposition
 2025-12-26T00:00:00 - Add unit tests for agentic core
+2025-12-26T00:00:00 - Update requirements and dependencies
