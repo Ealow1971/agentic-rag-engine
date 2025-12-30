@@ -4696,3 +4696,4 @@
 2025-12-19T00:00:00 - Add unit tests for agentic core
 2025-12-19T00:00:00 - Optimize SIMD kernels for attention
 2025-12-19T00:00:00 - Add hybrid search support
+2025-12-30T00:00:00 - Add logging for drift detection
