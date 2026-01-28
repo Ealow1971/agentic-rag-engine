@@ -4747,3 +4747,4 @@
 2026-01-14T00:00:00 - Refactor distributed sharding logic
 2026-01-14T00:00:00 - Add unit tests for agentic core
 2026-01-14T00:00:00 - Improve error handling in API
+2026-01-28T00:00:00 - Add hybrid search support
