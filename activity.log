@@ -4820,3 +4820,4 @@
 2026-02-25T00:00:00 - Add hybrid search support
 2026-02-25T00:00:00 - Add hybrid search support
 2026-02-25T00:00:00 - Refactor distributed sharding logic
+2026-02-04T00:00:00 - Improve error handling in API
