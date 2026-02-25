@@ -4819,3 +4819,4 @@
 2026-02-25T00:00:00 - Update README documentation
 2026-02-25T00:00:00 - Add hybrid search support
 2026-02-25T00:00:00 - Add hybrid search support
+2026-02-25T00:00:00 - Refactor distributed sharding logic
