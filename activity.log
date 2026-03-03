@@ -4903,3 +4903,4 @@
 2026-03-31T00:00:00 - Add support for custom embeddings
 2026-03-31T00:00:00 - Fix race condition in async processing
 2026-03-03T00:00:00 - Update README documentation
+2026-03-03T00:00:00 - Clean up redundant code in retriever
