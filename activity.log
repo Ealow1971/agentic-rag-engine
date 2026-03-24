@@ -4895,3 +4895,4 @@
 2026-03-24T00:00:00 - Update requirements and dependencies
 2026-03-24T00:00:00 - Add hybrid search support
 2026-03-24T00:00:00 - Clean up redundant code in retriever
+2026-03-24T00:00:00 - Optimize SIMD kernels for attention
