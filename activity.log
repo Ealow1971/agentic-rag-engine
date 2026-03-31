@@ -4900,3 +4900,4 @@
 2026-03-31T00:00:00 - Optimize SIMD kernels for attention
 2026-03-31T00:00:00 - Add support for custom embeddings
 2026-03-31T00:00:00 - Add hybrid search support
+2026-03-31T00:00:00 - Add support for custom embeddings
