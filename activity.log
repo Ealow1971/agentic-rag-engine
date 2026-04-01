@@ -4919,3 +4919,4 @@
 2026-04-01T00:00:00 - Fix bug in vector indexing
 2026-04-01T00:00:00 - Update requirements and dependencies
 2026-04-01T00:00:00 - Clean up redundant code in retriever
+2026-04-01T00:00:00 - Adjust prompt templates for better synthesis
