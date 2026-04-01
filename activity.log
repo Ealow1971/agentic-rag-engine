@@ -4916,3 +4916,4 @@
 2026-03-13T00:00:00 - Adjust prompt templates for better synthesis
 2026-04-01T00:00:00 - Fix bug in vector indexing
 2026-04-01T00:00:00 - Optimize query decomposition
+2026-04-01T00:00:00 - Fix bug in vector indexing
